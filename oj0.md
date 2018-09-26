@@ -21,8 +21,8 @@
 ## Environment: Ubuntu 17.10
 > maybe some tools had been installed by Linux distribution by default.
 1. apt-get install gcc g++ git python python3
-2. apt-get install wget make vim
-2. apt-get install libtool libxml2-dev libexpat-dev
+2. apt-get install wget make vim openssh-server
+2. apt-get install libtool libtool-bin libxml2-dev libexpat-dev
     + note: dependency of Apache dependency(apr, apr-util, pcre)
 3. apt-get install mysql-server
     + note: set password of root: ^^^???
@@ -85,11 +85,13 @@ All the tools follow step: download-->get source code-->configure-->make-->make 
 2. tar -zvxf php-5.6.37.tar.gz && cd php-5.6.37
 3. ./configure --with-zlib --with-apxs2=/usr/local/apache2/bin/apxs --with-mysql
 4. sudo make && sudo make install
+4. libtool --finish ./libs
 5. sudo cp php.ini-development /usr/local/lib/php.ini
 
 #### extension zlib.so
 >[ref](https://blog.csdn.net/benpaobagzb/article/details/48057687)
 1. ```php-5.6.37$ ```cd ext/zlib
+2. mv config0.m4 config.m4
 2. /usr/local/bin/phpize
 3. ./configure --with-zlib --with-php-config=/usr/local/bin/php-config
 4. sudo make && sudo make install
@@ -150,7 +152,7 @@ All the tools follow step: download-->get source code-->configure-->make-->make 
 ### simple backup
 1. backup: ```shell ```mysqldump -u root -p --databases shjudge_db > shjudge_db.sql
     + input password
-2. restore: ```mysql ```source file_name.sql;
+2. restore: ```mysql ```source shjudge_db.sql;
 
 
 ## tips for using
