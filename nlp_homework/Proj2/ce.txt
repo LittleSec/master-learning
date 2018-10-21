@@ -49964,7 +49964,6 @@
 鸭绒被,eiderdown
 鸭子,duck,quack-quack
 牙,cuspid,tooth,tooth-like thing,tusk
-牙,cuspid,tooth-like thing
 牙齿,teeth,tooth
 牙齿的,dental
 牙齿间隙大的,gap-toothed
@@ -50095,7 +50094,6 @@
 烟窗,smokestack
 烟道,flue
 烟蒂,stub,stump
-烟蒂,stub
 烟洞,flue
 烟斗,pipe,tabacco pipe
 烟斗柄,pipestem
@@ -50212,7 +50210,7 @@
 严格的,strict,rigid,rigorous,severe,cast-iron,firm,hard and fast,stringent
 严格地,grimly,sternly,straitly,strictly
 严寒,chilliness,Jack Frost,severe cold
-严寒,chilliness,严寒的,freezing,frigid,frosty,hyperborean
+严寒的,freezing,frigid,frosty,hyperborean
 严寒期,freeze-up
 严加盘问,grill
 严谨,preciseness
@@ -50225,10 +50223,9 @@
 严酷,inclemency,asperity,astringency,rigour
 严酷的,inclement,ruthless,astringent,cruel,grim,harsh,rigorous
 严厉,acrimony,sternness,hardness,rigour,sharpness,stringency
-严厉,acrimony,hardness,sharpness
 严厉惩罚,hell to pay
 严厉的,severe,sharp,crucial,acrimonious,ironhanded,pungent,rigorous,strict,stringent
-严厉的,severe,crucial,ironhanded,rigorous,严厉的责难,excoriate,excoriation
+严厉的责难,excoriate,excoriation
 严厉地,roundly,sharply,sternly,with a heavy hand
 严厉对待,handle without mittens,punish
 严厉拒绝,rebuff,setdown
@@ -50242,13 +50239,12 @@
 严然的,magisterial
 严守时间,punctuality
 严肃,austerity,harshness,solemnity
-严肃,austerity,严肃的,serious,solemn,earnest,grave,severe,sober
+严肃的,serious,solemn,earnest,grave,severe,sober
 严肃地,gravely,sternly
 严肃角色,heavy
 严刑,cruel torture
 严于律己，宽于待人,be severe with oneself and lenient towards others
 严责,berate,keelhaul,lambaste,reprimand
-严责,berate,lambaste
 严阵以待,be ready in take action,embattle
 严整,be in neat formation
 严正的,solemn and just
@@ -50267,7 +50263,7 @@
 言词,one's words
 言而无信,fail to keep faith
 言归于好,become reconciled,make friends again,make peace with
-言归于好,become reconciled,言归正传,get to business,joking apart,to return to the subject,to return to one's muttons
+言归正传,get to business,joking apart,to return to the subject,to return to one's muttons
 言过其实,All his geese are swans.,paint the devil blacker than he is
 言过其实的,exaggerated,overstated
 言过其实者,exaggerator
@@ -50297,7 +50293,6 @@
 岩洞,grotto
 岩浆,magma
 岩礁,cay,rock
-岩礁,cay
 岩流圈,asthenosphere
 岩蔷薇,rockrose
 岩圈,lithosphere
@@ -50366,12 +50361,11 @@
 研究院的,graduate
 研究者,investigator,pursuer,student
 研磨,abrade,furbish,mull,pestle,polish,rubbing,skive
-研磨,abrade,mull,polish,研磨的,abrasive
+研磨的,abrasive
 研磨工具,sharpener
 研磨机,muller
 研磨剂,abrasive
 研磨者,grinder,sharpener
-研磨者,grinder
 研碎,bruise
 研讨,delibrate,discuss,enter into
 研讨会,proseminar,workshop
@@ -50380,7 +50374,6 @@
 盐巴,salt
 盐层,salt bed
 盐厂,saltern,saltworks
-盐厂,saltern
 盐场,salt field
 盐的,saline
 盐度,salinity
@@ -50391,10 +50384,8 @@
 盐瓶,saltcellar
 盐水,brine
 盐水的,briny,saltwater
-盐水的,briny
 盐水湖,salina
 盐田,saline,saltern
-盐田,saline
 盐味的,salted
 盐析,salt out
 盐腌的,corned,salted
@@ -50410,9 +50401,8 @@
 颜料的,painty
 颜料盒,color box,paint box
 颜面,face,prestige
-颜面,face
 颜色,color,colour,countenance,tinct,tincture
-颜色,color,countenance,颜色变深,darken
+颜色变深,darken
 颜色调和,tone
 颜色发红,rubicundity
 檐,brim,eaves
@@ -50437,10 +50427,8 @@
 掩蔽,shelter,conceal,cover,occult,screen
 掩蔽物,screen
 掩藏,conceal,hide
-掩藏,conceal
 掩耳盗铃,deceive oneself
 掩盖,conceal,blanket,cover up,cushion,gloss over,screen from
-掩盖,conceal,cover up,gloss over
 掩盖的,covering
 掩盖行踪,cover up one's tracks
 掩护,secure,shield,cloak,cover,coverture,screen
@@ -50470,14 +50458,12 @@
 眼光短浅的,narrow
 眼光怀疑的,fish-eye
 眼光锐利的,bird-eyed,gimlet-eyed,lynx-eyed,sharp-sighted
-眼光锐利的,bird-eyed,lynx-eyed
 眼红,be jealous,covet,be furious
 眼花,giddiness,have a dim sight,swim
 眼花的,dazed,giddy,vertiginous
 眼花地,giddily
 眼花缭乱,daze
 眼花缭乱的,dazzling,dizzy
-眼花缭乱的,dazzling
 眼尖,be sharp-eyed
 眼睑,eyelid,eyewinker,lid
 眼睑的,palpebral
@@ -50493,7 +50479,6 @@
 眼睛的,ocular,ophthalmic,optic,optical
 眼睛明亮的,clear-eyed
 眼睛模糊的,blear-eyed,bleary
-眼睛模糊的,blear-eyed
 眼睛疲劳,eyestrain
 眼睛锐利的,quick-eyed
 眼睛上方的,superciliary
@@ -50505,7 +50490,6 @@
 眼镜商,optician
 眼镜蛇,cobra
 眼看,soon,watch helplessly
-眼看,soon
 眼科的,ophthalmic,ophthalmological
 眼科学,ophthalmology
 眼科医生,oculist
@@ -50513,7 +50497,7 @@
 眼快的,bird-eyed,quick-sighted
 眼眶,orbit
 眼泪,tear,tears,waterworks
-眼泪,tear,眼泪汪汪的,weepy
+眼泪汪汪的,weepy
 眼力,eyesight,judgment,vision
 眼力好的,long-sighted,lynx-eyed
 眼力锐利的,quick-sighted
@@ -50553,7 +50537,6 @@
 眼珠转动,goggle
 眼子菜,pondweed
 演,act,deduce,develop,evolve,perform,practise
-演,act,develop,perform
 演变,evolve,outcome
 演播室,studio
 演唱,sing
@@ -50645,7 +50628,7 @@
 宴席,banquet,dinner,feast,party,spree
 晏,comfort,late
 艳,amorous,colourful,gorgeous
-艳,amorous,艳丽的,gorgeous,pealike,showy
+艳丽的,gorgeous,pealike,showy
 艳俗的,raffish
 艳阳天,bright spring day
 艳冶的,foppish
@@ -50675,7 +50658,6 @@
 谚语式的,proverbial
 堰,lasher,weir
 焰,blaze,flame
-焰,blaze
 焰火,skyrocket
 雁,wild goose
 雁颈,gooseneck
@@ -50701,7 +50683,6 @@
 赝造者,forger
 央,center,end,entreat
 央告,ask earnestly,beg
-央告,ask earnestly
 央求,beg,mooch,plead
 泱泱,magnificent,vast
 殃,disaster,misfortune
@@ -50713,14 +50694,12 @@
 扬谷,winnow
 扬谷器,winnow,winnower
 扬眉吐气,feel proud and elated,hold one's head high
-扬眉吐气,feel proud and elated
 扬名的,famous,noted
 扬起,hike,raise
 扬起灰尘,dust,kick up a dust,raise a dust
 扬弃,develop the useful and discard the useless
 扬善惩恶,poetical justice
 扬声器,loudhailer,loudspeaker
-扬声器,loudhailer
 扬汤止沸,an ineffective remedy
 扬言,threaten
 扬扬,complacently
@@ -50748,7 +50727,6 @@
 羊皮商,fellmonger
 羊皮纸,lambskin,membrane,parchment
 羊圈,sheep pen,sheepfold
-羊圈,sheep pen
 羊肉,hotpot,mutton,red meat
 羊肉味的,muttony
 羊水诊断,amniocentesis
@@ -50809,7 +50787,6 @@
 洋气,foreign flavour
 洋人,foreigner
 洋伞,brolly,gingham
-洋伞,brolly
 洋铁,tinplate
 洋铁匠,tinman,tinner,tinsmith
 洋铁器商,tinman
@@ -50830,7 +50807,6 @@
 仰人鼻息,slavishly dependent
 仰望,look up,look up at,look up to
 仰卧,be on one's back,lie on one's back
-仰卧,be on one's back
 仰卧的,supine
 仰卧起坐,sit-up,situp
 仰泳,backstroke
@@ -50928,7 +50904,6 @@
 样子好的,clean-cut,shapable,shapely
 漾,overflow,ripple
 幺,one,youngest
-幺,one
 幺点,ace
 夭,die young
 夭亡,die young
@@ -50945,7 +50920,6 @@
 妖娆,enchanting,fascinating
 妖人,enchanter,sorcerer
 妖术,blackart,enchantment,the black art,theurgy
-妖术,blackart,the black art
 妖物,evil spirit,monster
 妖言惑众,spread fallacies to deceive people
 妖艳的,coquettish
@@ -50990,7 +50964,7 @@
 窑洞,cave dwelling,cave-house
 窑泥,puddling
 谣,ballad,hearsay,rumor
-谣,ballad,谣传,hearsay,noise,rumor,rumour,whisper
+谣传,hearsay,noise,rumor,rumour,whisper
 谣言,rumour,canard,groundless allegation,tale,talk
 徭役,corvee
 摇,rock,shake,sway,turn,wave,wigwag
@@ -51031,7 +51005,6 @@
 摇篮曲,cradle-song,lullaby
 摇篮时代,cradle
 摇落,shake down,shakedown
-摇落,shake down
 摇木马,rocket horse
 摇旗,flag-waver
 摇旗呐喊,bang the drum for sb.
@@ -51057,7 +51030,6 @@
 摇匀,shake up
 摇轴,rockshaft
 遥,distant,remote
-遥,distant
 遥感,remote sensing
 遥感勘测,telemetry
 遥感勘测的,telemetric
@@ -51065,7 +51037,6 @@
 遥望,look into the distance
 遥相呼应,echo each other at a distance
 遥遥,a long time,far away
-遥遥,a long time
 遥远的,distant,far,far away,far-flung,far-off,faraway,remote
 遥远的距离,a far cry
 遥远地,afar
@@ -51092,7 +51063,7 @@
 咬嘴唇,bite one's lips
 窈窕的,gentle and graceful,sylphlike
 舀,dip,ladle,scoop
-舀,dip,舀出,bail out,scoop out
+舀出,bail out,scoop out
 舀取,dip,scoop
 舀水,bail
 药,cure with medicine,drug,healer,medicine,remedy
@@ -51123,7 +51094,6 @@
 药丸,pill
 药丸盒,pillbox
 药物,medicaments,medicines,pharmaceuticals,remedy
-药物,medicaments,pharmaceuticals
 药物处理,medication
 药物治疗,medication
 药箱,medicine-chest
@@ -51151,10 +51121,10 @@
 要命的东西,man-trap
 要强,be eager to excel
 要求,demand,desire,ask,challenge,claim,mandate,postulate,request,require
-要求,demand,ask,claim,postulate,要求权,claim
+要求权,claim
 要求者,demander,pretender
 要人,VIP,man of mark,bug,high-up,the biggest toad in the puddle
-要人,VIP,bug,要塞,fortress,garrison,fastness,fort,fortification,stronghold
+要塞,fortress,garrison,fastness,fort,fortification,stronghold
 要是,if,suppose
 要素,element,essential,basic,key element
 要闻,important news
@@ -51162,11 +51132,11 @@
 要账,dun
 要职,important post
 要旨,main idea,purport,tenor,argument,content,gist,pemmican
-要旨,main idea,tenor,content,鹞,snipe
+鹞,snipe
 鹞类,willet
 耀,boast,dazzle,shine
 耀武扬威,mount the high horse,show one's strength,swagger around
-耀武扬威,mount the high horse,耀眼,dazzle
+耀眼,dazzle
 耀眼的,dazzling
 椰,coco,coconut
 椰,coco
@@ -51175,7 +51145,6 @@
 椰子树,coco
 噎,choke
 噎住,choke up,suffocate
-噎住,choke up
 爷,father,uncle
 爷爷,grandfather
 耶和华,Jehovah
@@ -51223,7 +51192,6 @@
 野蛮的行为,brutality
 野蛮化,barbarization
 野蛮人,barbarian,Goth,heathen,Hun,savagery
-野蛮人,barbarian,heathen,
 野猫,caracal,catamount,wildcat
 野牛,bison,urus
 野生,wildness
@@ -51237,7 +51205,6 @@
 野兽派,fauvism
 野兔,hare
 野外,field,open country
-野外,field
 野外的,field
 野外工作,fieldwork
 野外记录,field note
@@ -51327,7 +51294,7 @@
 页岩,shale
 页岩的,shaly
 夜,dark,evening,night
-夜,dark,夜班,night shift
+夜班,night shift
 夜半,midnight
 夜半的,midnight
 夜长梦多,a long delay may cause trouble
@@ -51394,7 +51361,6 @@
 谒见,call on
 谒见室,stateroom
 腋,armpit,axilla
-腋,armpit
 腋臭,underarm odour
 腋毛,armpit hair
 腋生的,axillary
@@ -51436,13 +51402,11 @@
 一磅金币,quid
 一抱之量,armful
 一杯,dram,snifter
-一杯,dram
 一杯量,tumbler
 一杯烈酒,nor'wester
 一杯啤酒,bock
 一倍半,half as much again
 一辈子,all one's life,three score years and ten
-一辈子,all one's life
 一本万利,make big profits with a small capital
 一本正经,in dead earnest,prim,sobriety,solemnity
 一本正经的,poker-faced,priggish,sanctimonious
@@ -51484,7 +51448,6 @@
 一触即发,on the verge of breaking out
 一触即溃,collapse at the first encounter
 一串,string,trail
-一串,string
 一吹,whiff
 一锤定音,give the decisive word
 一次,once,one-off,whack
@@ -51517,7 +51480,7 @@
 一斗,pipeful
 一肚子,skinful
 一度,for a time,on one occasion,once
-一度,for a time,一端,one aspect of the matter,one end
+一端,one aspect of the matter,one end
 一段,length,passage,section
 一段美好时光,a good time,a wonderful time
 一段情节,episode
@@ -51526,7 +51489,6 @@
 一队,covey,posse
 一对,brace,dyad,pair,twin
 一对一的,man-to-man,one-to-one
-一对一的,man-to-man
 一耳进一耳出,in at one ear and out at the other ear
 一二,just a little,one or two
 一帆风顺,plain sailing
@@ -51537,10 +51499,8 @@
 一分为二,one divides into two
 一分子的,monomolecular
 一份,cut-in,helping,portion,share
-一份,cut-in,portion
 一份食物,serving
 一夫多妻,polygamy,polygyny
-一夫多妻,polygamy
 一夫多妻的,polygamous,polygynous
 一夫多妻论者,polygamist
 一夫三妻,trigamy
@@ -51570,7 +51530,6 @@
 一晃,flash
 一挥而就,finish a piece of writing or painting in a while
 一回,bout,turn
-一回,bout
 一回合,round
 一会儿,a little while,while
 一伙,brood,crowd
@@ -51594,7 +51553,6 @@
 一局,inning,round
 一局,inning
 一举,at one fling,at one stroke,at one swoop,with one action
-一举,at one fling,at one swoop
 一举两得,kill two birds with one stone
 一句话,in a word
 一卷,hank,reel,wad
@@ -51669,7 +51627,6 @@
 一妻多夫,polyandry,polygamy
 一妻多夫的,polyandrous,polygamous
 一妻制,monogynous,monogyny
-一妻制,monogynous
 一齐,all of a lump,at the same time
 一起,together
 一起来,come along
@@ -51686,16 +51643,13 @@
 一切亲戚,sib
 一清二楚,as plain as daylight,as plain as the nose in your face
 一清二楚的,as clear as day,clear as day
-一清二楚的,as clear as day
 一穷二白,poor
 一丘之貉,be tarred with the same brush,birds of a feather,jackals from the same lair
-一丘之貉,be tarred with the same brush,
 一去不复返,gone for ever
 一圈,circuit,lap,turn
 一瘸一拐,dot and go one
 一瘸一拐地,lamely
 一群,cohort,covey,boodle,company,gaggle,pack,ruck
-一群,cohort,boodle,gaggle,
 一忍再忍,bear and forbear
 一日千里,at a tremendous pace
 一如既往,as always,run true to form
@@ -51706,7 +51660,6 @@
 一闪一闪,coruscate
 一身,a suit,all over the body
 一身大汗,all of a sweat,in a sweat
-一身大汗,all of a sweat
 一身是胆,know no fear
 一生,all one's life,from the womb to the tomb,lifetime
 一生的,lifetime
@@ -51754,7 +51707,6 @@
 一问三不知,utterly ignorant
 一窝,brood
 一无是处,neither rhyme nor reason,without a single redeeming feature
-一无是处,neither rhyme nor reason
 一无所长,have no special skill
 一无所有,penniless
 一无所知,utterly ignorant
@@ -51767,13 +51719,11 @@
 一厢情愿,one's own wishful thinking
 一向,all along,lately
 一笑置之,dismiss with a laugh,laugh out of court
-一笑置之,dismiss with a laugh
 一些,a few,a little,a number of,several,some
 一泻千里,bold and flowing,flow down vigorously
 一心,of one mind,wholehearted
 一心一意,undivided attention
 一心一意的,absorbed,intentness,preoccupied,single-eyed,wholehearted
-一心一意的,absorbed,preoccupied,
 一行,a group travelling together
 一行诗,monostich
 一言不发,not say a word
@@ -51786,7 +51736,6 @@
 一一,one by one
 一衣带水,a narrow strip of water
 一意孤行,act wilfully,go one's own way,take one's own course
-一意孤行,act wilfully,
 一饮而尽,quaff,toss off
 一应俱全,Everything needed is ready.,from soup to nuts
 一语道破,hit the mark with a single comment
@@ -51829,7 +51778,6 @@
 伊索,Aesop
 伊索寓言,Aesop's Fables
 衣,clothes,clothing,coating,covering
-衣,clothes,coating
 衣胞,afterbirth
 衣钵,legacy
 衣橱,almirah,clothespress,wardrobe
@@ -51841,11 +51789,9 @@
 衣冠楚楚,neatly dressed
 衣冠禽兽,brute
 衣冠冢,a tomb containing personal effects of a deceased but missing the corpse,cenotaph
-衣冠冢,a tomb containing personal effects of a deceased but missing the corpse
 衣柜,chest
 衣夹,clothes-pin
 衣架,clothes tree,coat hanger
-衣架,clothes tree
 衣肩,shoulder
 衣锦还乡,return home after getting fame or money
 衣料,dress material
@@ -51853,7 +51799,6 @@
 衣帽寄放处,checkroom
 衣帽间,cloakroom,locker room
 衣衫褴褛的,ragged,shabby
-衣衫褴褛的,ragged
 衣衫褴褛的人,scarecrow
 衣衫褴褛地,shabbily
 衣商,clothier
@@ -51879,7 +51824,6 @@
 医神,Aesculapius,Asclepius
 医生,a medical man,doctor,Dr.,medical,pillroller
 医师,Aesculapius,Galen,medic,medico,physician,powwow
-医师,Aesculapius,medic,physician
 医师的,galenic
 医师诊断证明书,aeger
 医术,medical skill
@@ -51887,7 +51831,6 @@
 医务室,infirmary
 医学,medicine,physic
 医学的,iatrical,medical,medicinal
-医学的,iatrical,
 医学生,medic,medico
 医学院预科,premed
 医学院预科的,premedical
@@ -51910,7 +51853,6 @@
 依附于,leech on to
 依旧,as before,as of old,rest,still
 依据,according to,basis,foundation,gist,go on,thereunder
-依据,according to,foundation,go on
 依据的,pursuant
 依靠,depend on,rely on,repose,tie to,turn on
 依靠的,incumbent
@@ -51930,16 +51872,13 @@
 依样画葫芦,copy mechanically
 依依,reluctant to leave
 依仗,depend on,rely on
-依仗,depend on
 依照,according to,in accordance with,pursuant
 铱,iridium
 壹,one
 揖,bow with hands clasped
 漪,ripples
 仪,appearance,bearing,ceremony,instrument,present
-仪,appearance,ceremony,
 仪表,appearance,instrument,meter
-仪表,appearance,
 仪表板,dashboard,panel
 仪表板灯,dash light
 仪礼化,formalization
@@ -51953,7 +51892,6 @@
 仪态,bearing,manner
 仪仗队,honour guard
 夷,exterminate,foreigner,raze,safe,smooth
-夷,exterminate,raze,
 夷平,level
 夷为平地,raze to the ground
 宜,appropriate,ought to,should,suitable
@@ -52007,11 +51945,9 @@
 移入的,immigrant
 移山倒海,transform nature
 移往,migrate,migration
-移往,migrate
 移项,transpose,transposition
 移栽,transplant
 移植,transplant,explant,graft,replant
-移植,transplant,graft
 移植法,transplantation
 移植泥刀,trowel
 移植生长,establish
@@ -52045,7 +51981,6 @@
 遗憾的,regretful,sorry
 遗恨,eternal regret
 遗迹,relic,remnant,vestiges
-遗迹,relic,
 遗迹的,vestigial
 遗留,bequeath,carry-over,hand down,leave behind,leave over
 遗留物,carry-over
@@ -52057,13 +51992,11 @@
 遗缺,vacancy
 遗容,a portrait of the deceased,remains fo the dead
 遗失,lose,loss
-遗失,lose
 遗失的,lost
 遗失者,loser
 遗书,a letter left by one immediately before death,posthumous writings
 遗孀,widow
 遗体,reliquiae,remains of the dead
-遗体,reliquiae
 遗忘,forget,forgotten,leave,Lethe,mislay,oblivion
 遗忘的,oblivious
 遗忘河,Lethe,waters of forgetfulness
@@ -52071,11 +52004,9 @@
 遗像,a portrait of the deceased
 遗训,teachings of the deceased
 遗言,the last words,words of the deceased
-遗言,the last words
 遗愿,last wish,unfulfilled wish of the deceased
 遗赠,bequeath,bequest,demise,devise
 遗赠物,bequest,legacy
-遗赠物,bequest
 遗赠者,devisor,legator
 遗址,relics,ruins
 遗志,unfulfilled wish
@@ -52088,7 +52019,6 @@
 遗嘱执行人的,executorial
 遗著,posthumous work
 颐,cheek,keep fit
-颐,cheek
 颐养,take care of oneself
 颐指气使,order people about by gestures
 疑,doubt,doubtful,suspect,uncertain
@@ -52137,11 +52067,9 @@
 已经,already,have,yet
 已然,have already become a fact
 已往,before,foretime,in the past,previously
-已往,before,in the past
 已往的,departed
 已知的,foregone,known
 已知数,datum,known number
-已知数,datum
 以,according to,as well as,because of,in order to,take,use,with
 以便,in order to,so that,to the effect that
 以次充好的,shoddy
@@ -52154,9 +52082,8 @@
 以观后效,see how the offender behaves in future
 以后,after,afterwards,anon
 以及,along with,as well as
-以及,along with
 以己度人,judge others by oneself,measure another's foot by one's own last,measure others' corn by one's own bushel
-以己度人,judge others by oneself,以计破计,countermine
+以计破计,countermine
 以计取胜,outfox
 以假乱真,mix the false with the genuine
 以儆效尤,as a warning to others,to warn others against following a wrong-doer
@@ -52170,9 +52097,7 @@
 以其,therewith
 以其人之道还治其身,dose sb. with his own physic,pay sb. back in his own coin,serve sb. with the same sauce
 以前,before,ago,beforetime,formerly,old,previously
-以前,before,beforetime,old
 以求,in an attempt to,in order to
-以求,in an attempt to
 以色列,Israel
 以上,above,the above-mentioned,upward
 以身试法,defy the law
@@ -52182,7 +52107,6 @@
 以退为进,retreat in order to advance
 以外,beyond,outside
 以往,before,formerly
-以往,before
 以为,suppose,feel,believe,conceive,consider,think
 以下,below,the following,under
 以牙还牙,a Roland for an Oliver,a tooth for a tooth,give as good as one gets,like for like,retaliate,return like for like,stick for stick and carrot for carrot
@@ -52194,7 +52118,6 @@
 以正视听,in order to ensure a right understanding of the facts
 以至,down to,so ... that ...,up to
 以致,as a result,consequently,so as to,so that
-以致,as a result,so as to
 以智取胜,outwit
 以资,as a way of
 以子之矛攻子之盾,refute sb. with his own way,turn sb.'s battery against himself
@@ -52247,7 +52170,6 @@
 刈草机,mower
 刈割,cradle
 忆,recall,recollect
-忆,recall
 忆起,recall,recollect
 艺,art,skill
 艺妓,geisha
@@ -52260,7 +52182,6 @@
 艺术级的,state-of-the-art
 艺术家,artist
 艺术家气派的,arty,arty-crafty
-艺术家气派的,arty
 艺术品,work of art
 艺术品爱好,virtu
 艺术品鉴赏家,virtuoso
@@ -52271,7 +52192,6 @@
 议,discuss,opinion,talk over,view
 议案,motion,proposal
 议长,prolocutor,speaker
-议长,prolocutor
 议程,agenda,agendum
 议定书,protocol
 议定者,negotiator
@@ -52296,7 +52216,6 @@
 亦,also,too
 亦步亦趋,blindly follow sb.,dance to sb.'s pipe,dance to sb.'s tune,imitate sb. at every step
 亦即,i.e.,that is
-亦即,i.e.
 屹,towering like a mountain peak
 屹立,stand erect,stand towering
 屹立不动的,rock-firm
@@ -52322,7 +52241,6 @@
 异乎常人的,preterhuman
 异乎惯例的,unaccustomed
 异乎寻常,extraordinary,unusual
-异乎寻常,extraordinary
 异花受粉,cross-pollinate,xenogamy
 异花受精,allogamy,cross-fertilize
 异化,dissimilation
@@ -52395,13 +52313,13 @@
 抑压物,depressor
 抑压者,depressor,repressor
 抑扬,cadence,modulation,rise and fall
-抑扬,cadence,
 抑扬的,inflectional,inflective
 抑音,grave
 抑郁的,depressed,gloomy
 抑郁的,depressed
 抑止,check,damp,restrain
-抑制,restrain,subdue,suppress,withhold,control,choke,curb,hold,repress,抑制不住的,insuppressible,irrepressible
+抑制,restrain,subdue,suppress,withhold,control,choke,curb,hold,repress
+抑制不住的,insuppressible,irrepressible
 抑制的,inhibitory,low-key,prohibitive,repressive,suppressive
 抑制剂,depressor
 抑制物,stayer
@@ -52463,7 +52381,6 @@
 奕奕,vigorous
 弈,play chess
 疫,epidemic disease,pestilence
-疫,epidemic disease
 疫病,epidemic disease
 疫苗,vaccine
 疫苗的,vaccinal,vaccine
@@ -52471,7 +52388,6 @@
 疫情,epidemic situation
 轶话集,legendry
 轶事,ana,anecdote
-轶事,ana
 轶事的,anecdotical
 轶事一样的,anecdotal
 益,beneficial,benefit,increase,increasingly,profit
@@ -52504,14 +52420,12 @@
 意见不合,dissension,dissidence,divarication
 意见不同的,dissident
 意见相同,be of the same mind,concur
-意见相同,be of the same mind
 意见一致,concurrence,meeting of minds
 意见一致的,unanimous
 意境,artistic conception
 意料,expect
 意念,idea,impression,motif,thought
 意气,personal feelings,will and spirit
-意气,personal feelings
 意气风发,high-spirited and vigorous
 意气沮丧的,crestfallen
 意气消沉,slump
@@ -52528,7 +52442,6 @@
 意图,animus,intent,intention,meaning,offer,view
 意外,accident,chance,mishap,thunderbolt
 意外的,accidental,sudden,unexpected
-意外的,accidental,
 意外地,accidentally,by chance
 意外事故,contingency
 意外事件,a bolt from the blue,accident,afterclap,bolt
@@ -52552,7 +52465,6 @@
 意义明确的,univocal
 意译,free translation,transcribe
 意欲,intend to,mean,plan,purpose
-意欲,intend to,plan
 意欲的,appetent
 意愿,apiration,desire,inclination,will,wish
 意在言外,The meaning is implied.
@@ -52563,7 +52475,6 @@
 意志的,volitional,volitive
 意志坚强的,strong-minded,strong-willed,tough-minded
 意志力,psychokinesis,volition,willpower
-意志力,psychokinesis,
 意志力丧失,abulia
 意志消沉的,low-spirited
 意中人,the person one is in love with
@@ -52576,7 +52487,6 @@
 溢值,overflow
 肄业,study in school
 裔,descendants,offspring
-裔,descendants
 毅,firm,resolute
 毅力,perseverance,willpower
 毅然,determinedly,firmly,resolutely
@@ -52587,7 +52497,6 @@
 翼果,samara
 翼尖,wingtip
 翼龙,pterodactyl,pterosaur
-翼龙,pterodactyl
 翼膜,patagium
 翼旗,gonfalon
 翼手类动物,chiropter
@@ -52600,7 +52509,6 @@
 臆,chest,subjectively
 臆测,conjecture,guess,guesswork,surmise
 臆断,assume,forejudge,suppose
-臆断,assume,
 臆造,concoct,fabricate
 癔病,hysteria
 镱,ytterbium
@@ -52630,7 +52538,6 @@
 因缘,predestined relationship
 因子,factor,gene
 阴,hidden,in intaglio,lunar,negative,of the nether world,overcast,shade,sinister
-阴,hidden,lunar,of the nether world,shade
 阴暗,cloudiness,grayness,obscurity,shade,shadow
 阴暗的,dark,gloomy,darksome,dull,shady,sunless,umbral
 阴暗面,the seamy side
@@ -52658,11 +52565,9 @@
 阴核,clitoris
 阴户,vulva
 阴魂,soul,spirit
-阴魂,soul
 阴极,cathode,negative pole
 阴极射线管,CRT
 阴间,hell,inferno,the nether world,the region beyond the grave
-阴间,hell,the nether world
 阴间的,infernal,otherworldly
 阴茎,penis,phallus
 阴茎的,phallic
@@ -52689,13 +52594,11 @@
 阴私,shameful secret
 阴天,cloudy sky,overcast sky
 阴天的,overcast,somber
-阴天的,overcast
 阴文,characters cut in intaglio
 阴险,blackness,cattiness
 阴险的,serpentine,sinister,snaky,insidious,treacherous,viperous
 阴险的人,Jesuit,rat-face,viper,snake
 阴性的,electronegative,feminine,minus,negative
-阴性的,electronegative,minus
 阴阳怪气,cynical,eccentric,enigmatic,mystifying,queer
 阴阳怪气的,enigmatic
 阴阳人,epicene,hermaphrodite,intersex
@@ -52761,7 +52664,6 @@
 音盲的,tone-deaf
 音容,the likeness of a person
 音色,timbre,tone colour
-音色,timbre
 音色的,tonal
 音色地,tinnily
 音色优美的,tuny
@@ -52772,14 +52674,12 @@
 音速的,sonic
 音位转换,metathesis
 音响,acoustics,sound
-音响,acoustics
 音响测定器,audiometer
 音响测深仪,fathometer
 音响发声器,sounder
 音响风景,soundscape
 音响好的,euphonious
 音响效果,acoustics,sound effects
-音响效果,acoustics
 音响效果好的,phonogenic
 音响学,acoustics
 音响学的,acoustic
@@ -52800,7 +52700,6 @@
 铟,indium
 喑,silent
 吟,chant,recite,the cry of animals
-吟,chant,
 吟唱,chant
 吟唱者,chanter
 吟诵,recital,recitation
@@ -52842,7 +52741,6 @@
 银器,silver,silverware
 银器匠,silversmith
 银色的,argent,argentine,silvery
-银色的,argent,
 银色素,argentine
 银行,bank
 银行本票,cashier's cheque
@@ -52873,18 +52771,15 @@
 引得出的,extractive
 引逗,lure,tease
 引渡,deliver,delivery,extradite,tradition
-引渡,deliver,extradite
 引渡人,deliverer
 引渡逃犯,extradition
 引而不发,draw the bow but not discharge the arrow,have the situation under control
-引而不发,draw the bow but not discharge the arrow
 引号,quotation mark,quotation marks
 引火木柴,spunk
 引火烧身,draw fire against oneself
 引见,introduce,meet,present
 引荐,recommend
 引进,introduce into,bring in,fetch in,work in
-引进,introduce into,fetch in
 引进线路,bay-line
 引经据典,cite the classics
 引咎,take the blame
@@ -52903,11 +52798,9 @@
 引人动心的,inviting
 引人发笑的,amusing
 引人入胜的,bewitching,enchanting,fascinating,ravishing
-引人入胜的,bewitching,fascinating
 引人注目,catch sb.'s eye,come to front
 引人注目的,conspicuous,dramatical,noticeable,remarkable,spectacular
 引人注目地,dramatically,remarkably
-引人注目地,dramatically
 引人注意的,seductive
 引入,adhibit,draw into,induct,introduce
 引入口,intake
@@ -52921,7 +52814,6 @@
 引文,quotation,quoted passage
 引线,down-lead
 引信,fusee,fuze
-引信,fusee
 引言,foreword,introduction
 引以为戒,learn a lesson,take warning
 引以为例,instance
@@ -52941,7 +52833,6 @@
 引子,introduction,opening words
 吲哚,indole
 饮,drink,imbibe
-饮,drink
 饮弹,be hit by a bullet
 饮过量,overdrink
 饮恨,suffer a grievance
@@ -52954,7 +52845,6 @@
 饮泣,weep in silence
 饮食,diet
 饮食的,dietary,dietetic
-饮食的,dietary
 饮食过度,surfeit
 饮食学,sitology
 饮食有度的,abstinent
@@ -52966,7 +52856,6 @@
 隐,concealed,dormant,latent
 隐蔽,concealment,cover-up,enshroud,take cover
 隐蔽处,shadow,shelter
-隐蔽处,shadow
 隐蔽的,private,privy,secluded,secret,covert,shady,ulterior
 隐藏,conceal,ensconce,lock,obscure,shroud,veil
 隐藏处,covert,stash
@@ -52978,7 +52867,6 @@
 隐豆戏法,thimblerig
 隐遁,reclusion
 隐遁的,claustral,recluse,reclusive
-隐遁的,claustral,
 隐遁生活,reclusion
 隐遁者,recluse
 隐恶扬善,hide one's wrongdoing and praise his good deeds
@@ -53055,7 +52943,6 @@
 印模,moulage,print
 印尼,Indonesia
 印泥,ink paste used for seals,inkpad
-印泥,ink paste used for seals
 印染,printing and dyeing
 印染工厂,printworks
 印色盒,pad
@@ -53099,7 +52986,6 @@
 印证,confirm,corroborate,verify
 印子,mark,print,trace
 印字,lettering,wording
-印字,lettering
 茚,indene
 应,answer,echo,ought to,should,promise,respond,grant,deal with,suit
 应变,meet an emergency
@@ -53107,7 +52993,6 @@
 应承,agree,promise
 应酬,dinner party,social intercourse
 应答,answer,reply
-应答,answer
 应答的,responsive
 应答者,respondent
 应当,ought to,should
@@ -53116,7 +53001,6 @@
 应对迅速,answer up
 应付,cope with,deal,do sth. perfunctorily,handle,manipulate
 应付的,due,payable
-应付的,due
 应付款,due
 应付帐,an account payable
 应付自如,rise to the occasion
@@ -53148,7 +53032,6 @@
 应验,come true
 应邀,on invitation
 应用,apply,use
-应用,apply
 应用的,applied
 应用流体学,fluidics
 应有尽有,have everything that one expects to find
@@ -53212,7 +53095,6 @@
 莺类,blackcap
 婴,baby,infant
 婴儿,baby,infant,newborn,nursling
-婴儿,baby,newborn
 婴儿车,pram
 婴儿的,infant,infantile
 婴儿时代,babyhood
@@ -53242,7 +53124,6 @@
 鹦鹉学舌,parrot
 膺,bear,breast,receive
 鹰,eagle,hawk
-鹰,eagle
 鹰巢,eyrie
 鹰的,accipitral,aquiline
 鹰钩鼻,aquiline nose
@@ -53309,7 +53190,6 @@
 营养物,nurture,nutrient,nutriment
 营养吸收,alimentation
 营养学,dietetics,nutrition,sitology
-营养学,dietetics,
 营业,bussiness
 营业额,turnover
 营业税,business tax,transactions tax,sales tax
@@ -53342,7 +53222,6 @@
 影,film,image,movie,photograph,picture,shadow,trace
 影集,album
 影迷,film fan,filmgoer
-影片,film
 影片的镜头,footage
 影评,film review
 影射,allude,hint
@@ -53371,7 +53250,6 @@
 影踪,hide or hair
 瘿,wart
 映,mirror,reflect,shine
-映,mirror,
 映衬,set,set off
 映出,mirror,reflect
 映入眼帘,greet
@@ -53389,14 +53267,11 @@
 硬草帽,boater
 硬蛋白质,scleroprotein
 硬的,hard,rigid
-硬的,hard
 硬度,hardness,rigidity
-硬度,hardness
 硬度计,sclerometer
 硬而挺的,starched
 硬汉,a tough guy
 硬化,harden,indurate,cirrhosis,sclerosis
-硬化,harden,cirrhosis
 硬化的,sclerotic,sclerous
 硬化防止剂,antioxidant
 硬化橡皮,ebonite,vulcanite
@@ -53405,7 +53280,6 @@
 硬挤过去,hustle
 硬件,hardware
 硬结,harden,indurate,sclerosis,callosity
-硬结,harden,sclerosis
 硬结的,callous
 硬壳,incrustation
 硬块,nugget
@@ -53426,7 +53300,6 @@
 硬木质果树,xylocarp
 硬皮,hardback
 硬皮的,crustaceous,hardback
-硬皮的,crustaceous
 硬砂岩,greywacke
 硬石膏,anhydrite
 硬挺,endure
@@ -53456,7 +53329,6 @@
 佣钱,poundage
 拥,crowd,embrace,support
 拥抱,embrace,hug,caress,cuddle,enfold
-拥抱,embrace,caress,
 拥壁,revetment
 拥戴,support
 拥登王位,scepter
@@ -53470,7 +53342,6 @@
 拥挤喧嚷,hustle
 拥入,invade
 拥塞,congest,jam
-拥塞,congest
 拥塞之物,jam
 拥吻,neck
 拥有,have,hold,own,possess
@@ -53483,12 +53354,10 @@
 庸人自扰,worry about troubles of one's own imagining
 庸俗的,blackguard,low,philistine,stodgy,vulgar
 庸医,horse doctor,empiricist,quack
-庸医,horse doctor,
 庸医的,quack
 庸医的医术,empiricism
 雍容,natural and graceful
 慵,languid,weary
-慵,languid
 臃肿,overstaffed
 永,always,forever
 永别,be parted by death
@@ -53509,7 +53378,6 @@
 永远的,eternal,immortal
 永远地,from everlasting to everlasting
 永志不忘,will always bear in mind,will never forget
-永志不忘,will always bear in mind
 甬道,corridor,paved path leading to a main hall or tomb
 咏,chant,intone
 咏叹,chant,intone,sing
@@ -53527,45 +53395,37 @@
 勇敢的行为,gallantry
 勇敢地,bravely,gallantly,gamely
 勇敢地面对,face up to,put a bold front on
-勇敢地面对,face up to
 勇敢者,brave
 勇猛,intrepidity,valour
 勇猛的,bold and powerful,intrepid,lionhearted
 勇猛向前,in full charge
 勇气,courage,nerve,gallantry,gut,hardness
-勇气,courage,gallantry,
 勇士,a brave and strong person,warrior
 勇往直前,advance bravely,go well up to bridle,take one's courage in both hands
 勇往直前的,precipitant
 勇武的,valiant,valorous
 勇于,be brave in,have the courage to
 涌,emerge,gush,stream,surge
-涌,emerge,stream
 涌出,effuse,flow,gush,pour,spill,spring
 涌出的,gushing
 涌进,flood,afflux
-涌进,flood
 涌流,current,spill
 涌起,upsurge
 涌入,swarm into
 涌现,come forth,emerge,rush
 涌至,avalanche
 蛹,pupa,nymph,chrysalis
-蛹,pupa,
 蛹的,nymphal,pupal
 踊跃,eagerly,enthusiastically,jump,leap
 用,apply,expenses,use
-用,apply,
 用兵,resort to arms
 用兵上的,tactical
 用兵学,tactics
 用不完,inexhaustibility
 用不完的,exhaustless,inconsumable,inexhaustible
-用不完的,exhaustless,
 用餐,have dinner
 用餐者,diner
 用处,good,use
-用处,good
 用词不当,impropriety,misnomer
 用辞,terminology
 用辞的,terminological
@@ -53581,7 +53441,6 @@
 用坏的,worn-out
 用计,maneuver
 用尽,exhaust,give out,spend
-用尽,exhaust,
 用尽的,spent
 用劲,exert
 用旧的,worn-out
@@ -53600,13 +53459,11 @@
 用心地,attentively,cannily,diligently
 用益权,usufruct
 用意,intention,mean,purpose
-用意,intention,
 用语,diction,phraseology,vocabulary,wording
 用语索引,concordance
 优,actor,excellent
 优待,give special treatment
 优等的,classy,excellent,first-rate
-优等的,classy,
 优等考试,tripos
 优等升级生,classman
 优等生名册,class-list
@@ -53623,7 +53480,6 @@
 优美爽口,daintily
 优柔寡断,indecision,irresolution,yea and nay
 优柔寡断的,indecisive,irresolute,pusillanimous,weak-headed,weak-kneed
-优柔寡断的,indecisive,pusillanimous,
 优柔寡断的人,jelly bean
 优柔寡断地,infirmly
 优生,prepotency
@@ -53679,7 +53535,6 @@
 忧愁,grief,sadden
 忧愁,grief
 忧愁的,depressed,sad,worried
-忧愁的,depressed,
 忧愤的,worried and indignant
 忧患,misery,hardship,suffering
 忧惧,apprehension
@@ -53708,7 +53563,6 @@
 幽魂,ghost
 幽禁,imprison,mure,shut
 幽静的,peaceful,secluded,tranquil
-幽静的,peaceful,
 幽灵,ghost,phantom,spirit
 幽灵的,ghostly
 幽门,pylorus
@@ -53732,13 +53586,11 @@
 悠然的,carefree,far away,leisurely
 悠然自得的,carefree and content,low-pressure
 悠闲,ease,leisure
-悠闲,ease
 悠闲的,leisurely,carefree,easygoing,idyllic
 悠闲的,leisurely,easygoing
 悠闲地,leisurely
 悠扬的,melodious,rising and falling
 悠悠,leisurely,long,remote
-悠悠,leisurely,
 悠悠荡荡,floating about
 悠悠忽忽,be in a trance,loiter
 悠远,a long time ago
@@ -53759,7 +53611,6 @@
 犹,just as,like,still
 犹大之吻,a Judas kiss
 犹太的,Judaic,Judean
-犹太的,Judaic
 犹太的法学博士,rabbi
 犹太法典,Talmud
 犹太法典编著者,Talmudist
@@ -53767,7 +53618,6 @@
 犹太教,Judaism
 犹太教会堂,synagogue
 犹太教徒,Judaist,Hebraist,Jew
-犹太教徒,Judaist,
 犹太女人,Jewess
 犹太人,Jew,Judean,Hebrew
 犹太人的,Jewish,Judaic
@@ -53799,7 +53649,6 @@
 邮戳,indicia,postmark
 邮袋,mailbag,postbag
 邮递,mail,post,postal delivery
-邮递,mail,
 邮递区号,postcode,zip code
 邮递员,carrier,letter carrier,mail carrier
 邮费,postage
@@ -53807,7 +53656,6 @@
 邮汇,remit by post
 邮机,mailplane
 邮寄,mail,post
-邮寄,mail
 邮寄宣传品,junk mail
 邮寄者,mailer
 邮件,mail,post,postal matter
@@ -53821,7 +53669,6 @@
 邮票,stamp
 邮筒,mailbox,pillar-box,mail drop
 邮箱,mailbox,postbox
-邮箱,mailbox
 邮政,mail,post,postal service
 邮政部的,post-office
 邮政的,postal
@@ -53869,7 +53716,6 @@
 油商,oiler,oilman
 油绳,wick
 油水,grease,profit
-油水,grease
 油酸盐,oleate
 油毯,linoleum
 油桃,nectarine
@@ -53917,7 +53763,6 @@
 游荡,loaf about,loiter,debauchery,gad,jazz around,truancy,wander
 游荡的,gadabout,truant,vagrant
 游荡者,bum,bummer,gadabout,runagate,straggler
-游荡者,bum,gadabout,
 游方僧,palmer
 游逛,stroll about
 游过,swim
@@ -53954,7 +53799,6 @@
 游人,tourist,visitor
 游刃有余,do a job with skill and ease
 游手好闲,dawdle,idle about,eat the bread of idleness,loaf,mike
-游手好闲,dawdle,eat the bread of idleness,
 游手好闲的,do-nothing
 游手好闲的人,dawdler,idler,loafer
 游水,swim
@@ -53963,13 +53807,11 @@
 游说议员,lobby
 游丝,hairspring
 游艇,houseboat,yacht
-游艇,houseboat
 游艇船员,bargeman
 游艇驾驶者,yachtsman
 游艇俱乐部,yacht club
 游艇所有者,yachtsman
 游玩,play,amuse oneself,stroll about
-游玩,play,
 游玩喧闹,romp
 游戏,game,play,sport,pastime,toy
 游戏板,cribbage-board
@@ -54013,16 +53855,13 @@
 友情,friendship,good-fellowship,hail-fellow
 友善,amicability,fraternization,friendship
 友善的,affable,amicable,friendly,genial,sociable
-友善的,affable,friendly,
 友善地,amicably,friendly
 友谊,comity,companionship,fellowship,friendliness,friendship
 有,have,add,exist,possess
 有碍,be a hindrance to,obstruct
-有碍,be a hindrance to
 有案可查,be documented,be on record
 有把的,eared
 有把握的,confident,safe
-有把握的,confident
 有斑的,brindled
 有斑点的,flecked,guttate,macular,maculate,spotted,streaky
 有斑纹的,brindled,dapple,striped,stripy
@@ -54105,7 +53944,6 @@
 有魅力的,attractive,captivating,catching,dishy,engaging,inviting,prepossessing,seductive
 有名的,famous,well-known,celebrated,eminent,renowned
 有名无实的,nominal,titular
-有名无实的,nominal
 有名无实地,nominally
 有目共睹,be obvious to all
 有期徒刑,set term of imprisonment
@@ -54133,7 +53971,6 @@
 有声有色,vivid and dramatic
 有时,sometimes,now and then,from time to time,at times,at whiles,on occasion
 有时候,between times,occasionally
-有时候,between times
 有识之士,a man of insight
 有史以来,beyond the memory of men,throughout history
 有始有终,carry sth. through to the end
@@ -54144,7 +53981,6 @@
 有丝分裂的,mitotic
 有髓的,medullated,pithy
 有穗的,eared,spicate
-有穗的,eared
 有穗饰的,tufted
 有蹄的,hoofed,ungulate
 有蹄的,hoofed
@@ -54168,7 +54004,6 @@
 有隙可乘,there is a crack to take use of
 有闲的,leisure
 有线的,lineate,wired
-有线的,lineate
 有线电传真,wirephoto
 有线广播,public-address system
 有限的,limited,finite,Ltd,restricted
@@ -54177,7 +54012,6 @@
 有限物,finite
 有限战争,limit war
 有限制的,limitary,limited
-有限制的,limitary
 有效,availability,be good for,efficiency,hold,hold true,in effect
 有效的,effective,valid,active,efficacious,resultful,significant,virtual
 有效地,availably,effectively
@@ -54190,7 +54024,6 @@
 有效值,virtual value
 有些,some,in a sort of way,somewhat
 有心的,intentional,minded
-有心的,intentional
 有心人,a person with high aspirations and determination,an observant and conscientious person
 有形,materiality
 有形的,corporeal,tangible,visible
@@ -54207,7 +54040,7 @@
 有一天,one day,one fine day,someday
 有义务,accountability,be amenable to,be in duty bound to
 有义务的,amenable,bound,liable
-有义务的,amenable,有益,availability,conduce,profit
+有益,availability,conduce,profit
 有益的,beneficial,useful,advantageous,benignant,good,helpful,profitable
 有益地,benignantly,profitably,valuably
 有益健康,salubrity
@@ -54222,7 +54055,6 @@
 有意识,consciously
 有意识的,conscious
 有意思的,significant,meaningful,enjoyable,interesting
-有意思的,significant,enjoyable
 有意思地,meaningly
 有意义,make sense,mean,weigh
 有翼的,alate,pennate,winged
@@ -54230,16 +54062,15 @@
 有勇无谋的,foolhardy
 有用,avail,boot,help,of use,serve
 有用的,helpful,available,expedient,favourable,serviceable,subservient,useful
-有用的,helpful,expedient,serviceable,有余,have enough and to spare,have a surplus
+有余,have enough and to spare,have a surplus
 有余的,superabundant
 有志者事竟成,where there is a will there is a way
 有志之士,a person with lofty ideals
 有助,conduce
 有助于,administer,conduce to,contribute,lend itself to,redound
 有资格的,qualified,titular
-有资格的,qualified
 有罪,criminality,guiltiness,in a state of nature
-有罪,criminality,有罪的,criminal,culpable,sinful
+有罪的,criminal,culpable,sinful
 有罪性,culpability
 有罪于,deserve ill of
 莠,bad people,weed
@@ -54259,14 +54090,13 @@
 右边的,dexter
 右侧,starboard
 右侧的,dexter,dextral,right-handed
-右侧的,dexter,右的,rightward
+右的,rightward
 右方的,right
 右派,right
 右派的,right-wing,rightist
 右派人士,rightist
 右上角,top right corner
 右手,one's right hand,right hand
-右手,one's right hand
 右手边,right hand side
 右手打击,right-hander
 右首,the right-hand side
@@ -54284,7 +54114,6 @@
 幼虫,grub,larva,nit,nympha
 幼虫的,larval,nymphal
 幼儿,infant,nursling
-幼儿,infant
 幼儿期,infancy
 幼儿园,nursery school
 幼根,radicle
@@ -54319,7 +54148,6 @@
 诱发,cause to happen,induce
 诱供,induce a person to make a confession
 诱拐,abduct,abduction,kidnap,spirit
-诱拐,abduct,kidnap
 诱拐者,abductor
 诱惑,tempt,attract,entice,allure,lure,pitfall,snare,solicit
 诱惑的,alluring,seductive,siren
@@ -54341,7 +54169,7 @@
 鼬,stoat
 鼬鼠,weasel
 迂,circuitous,pedantic,winding
-迂,circuitous,迂夫子,pedant
+迂夫子,pedant
 迂腐的,pedantic
 迂缓的,dilatory
 迂回,make a detour,wind
@@ -54355,7 +54183,6 @@
 迂阔,circuity
 迂曲,circuity
 迂曲的,circuitous,tortuous
-迂曲的,circuitous
 迂拙的,impractical and foolish
 淤,silt
 淤积,deposit,fill up,silt up
@@ -54370,7 +54197,7 @@
 于此,hereat,hereof
 于是,accordingly,and then,as a result,consequently,hence,therewith,upon that
 予,give,grant,I
-予,give,予以穿着,habilitate
+予以穿着,habilitate
 予以方便的,accommodative
 余,beyond,I,more than,over,remaining,surplus
 余波,aftereffect,repercussions
@@ -54403,14 +54230,13 @@
 余音,lingering sound
 余裕,margin
 余裕的,ample,enough
-余裕的,ample
 余韵,aftertaste
 余震,aftershock
 盂,jar
 鱼,fish
 鱼鳔,swimming bladder
 鱼叉,gaff,gig,harpoon
-鱼叉,gaff,鱼翅,fin
+鱼翅,fin
 鱼刺,fish bone
 鱼的,piscine
 鱼的浮囊,fish-sound
@@ -54426,7 +54252,6 @@
 鱼精,milt
 鱼雷,fish torpedo,torpedo
 鱼类,anchovy,fish
-鱼类,anchovy
 鱼类学者,ichthyologist
 鱼类研究者,ichthyologist
 鱼梁,weir
@@ -54436,7 +54261,6 @@
 鱼卵,roe,spawn
 鱼卵,roe
 鱼米之乡,a land flowing with milk and honey,an abundant place
-鱼米之乡,a land flowing with milk and honey
 鱼苗,fry
 鱼目混珠,pass away the sham as the genuine
 鱼鸟,ichthyornis
@@ -54446,7 +54270,6 @@
 鱼商,fishmonger
 鱼似的,fishy
 鱼塘,pound,stew
-鱼塘,pound
 鱼藤,derris
 鱼尾板,fishplate
 鱼尾状的,fishtail
@@ -54465,12 +54288,10 @@
 鱼子酱,caviar,caviare
 鱼族的,finny,piscine
 娱,amusement,joy
-娱,amusement
 娱乐,amuse,disport,entertain
-娱乐,amuse,娱乐表演,entertainment
+娱乐表演,entertainment
 娱乐场,casino,midway,recreation ground
 娱乐的,recreational,sportful
-娱乐的,recreational
 娱乐时间,playtime
 娱乐室,playroom,recreation room,rumpus room
 娱乐性行业,show business
@@ -54499,12 +54320,12 @@
 愉快地,agreeably,amusedly,enjoyably,jollily,merrily
 愉悦,joviality
 愉悦的,cheerful,delighted,joyful
-愉悦的,cheerful,腴,fat,fertile,plump
+腴,fat,fertile,plump
 逾,even more,exceed
 逾期,exceed the time limit,overdue
 逾期不付,lie over
 逾越,exceed,go beyond,overstep
-逾越,exceed,逾越节,Passover
+逾越节,Passover
 逾越节的,paschal
 愚,fool,foolish,I,stupid
 愚笨,ineptitude
@@ -54514,15 +54335,13 @@
 愚蠢,foolery,hebetude,inanity,insipience,stupidity,vacuity
 愚蠢的,foolish,silly,goosey,idiotic,stupid,wooden-headed,inane,absurd
 愚蠢地,absurdly,sillily,stupidly
-愚蠢地,absurdly,愚蠢多嘴的,rattlebrained,rattleheaded,rattlepated
-愚蠢多嘴的,rattlebrained,愚蠢者,Gothamite,half-wit,imbecile
+愚蠢多嘴的,rattlebrained,rattleheaded,rattlepated
+愚蠢者,Gothamite,half-wit,imbecile
 愚钝,asininity,crassitude,fatuity,imbecility
 愚钝的,fatheaded,slow-witted,stupid,crass,imbecile,long-eared,maladroit,purblind
 愚鲁的,fat-witted
 愚昧,blindness,unwisdom
-愚昧,blindness
 愚昧的,benighted,ignorant
-愚昧的,benighted
 愚昧的言行,ineptitude,unwisdom
 愚民政策,obscurantism
 愚弄,fool,deceive,dupe,flout,hoax,leg-pull,ridicule,scoff
@@ -54547,7 +54366,6 @@
 舆论,public opinion
 舆论上,publicly
 舆情,public sentiment,popular feelings
-舆情,public sentiment
 与,and,attend,get along with,give,help,offer,take part in,with
 与格,dative
 与格的,datival,dative
@@ -54556,7 +54374,6 @@
 与会,attend a meeting,participate in a conference
 与日俱增,grow day by day,increase steadily
 与生俱来的,in sb.'s blood,inherent,native,nude
-与生俱来的,in sb.'s blood,native
 与世长辞,die,pass away
 与世无争,stand aloof from the worldly affairs
 与我无关,for all I care
@@ -54579,7 +54396,6 @@
 宇宙神教,universalism
 宇宙学家,cosmologist
 宇宙哲学,cosmology,metaphysics
-宇宙哲学,cosmology
 宇宙哲学的,cosmological
 宇宙志,cosmography
 宇宙志学者,cosmographer
@@ -54588,7 +54404,7 @@
 羽冠,crest
 羽茎,quill
 羽毛,feather,pinion,plume
-羽毛,feather,羽毛球,badminton,bird,shuttlecock
+羽毛球,badminton,bird,shuttlecock
 羽毛球拍,battledore
 羽毛似的,plumy
 羽毛围巾,boa,boa constrictor
@@ -54596,7 +54412,6 @@
 羽毛装饰,plume
 羽毛状,featheriness
 羽毛状的,penniform,plumose
-羽毛状的,penniform
 羽片,pinna
 羽纱,camlet
 羽饰,panache
@@ -54695,7 +54510,7 @@
 语重心长,sincere words and earnest wishes
 语族,Austronesian
 玉,beautiful,handsome,jade
-玉,beautiful,玉成,kindly help secure the success of something
+玉成,kindly help secure the success of something
 玉带,jade belt
 玉滴石,hyalite
 玉雕,jade carving
@@ -54747,18 +54562,16 @@
 浴,bath
 浴场,bathhouse,outdoor bathing place
 浴池,piscina,plunge bath
-浴池,piscina
 浴缸,bathtub
 浴疗学,balneology
 浴疗者,bather
 浴盆,tub
 浴室,bath,bathroom
-浴室,bath
 浴室防滑垫,bath mat
 浴衣,bathrobe
 预,beforehand,in advance
 预报,forecast,forerun,herald,predict,prediction
-预报,forecast,herald,预备,preparation,preparative,get sth. ready
+预备,preparation,preparative,get sth. ready
 预备的,preliminary,preparative,preparatory,propaedeutic
 预备调查,pretest
 预备教育,propaedeutic
@@ -54780,7 +54593,6 @@
 预订,book,reserve,subscribe
 预订零售部,will-call
 预定,destine,engage,prearrange,preconcert,predestine,schedule
-预定,destine,prearrange,predestine
 预定的,concerted,scheduled
 预定的命运,foredoom
 预定的事,foregone conclusion
@@ -54790,7 +54602,6 @@
 预断,forejudge,prejudge
 预断裁决,prejudication
 预防,prevent,provide against,take precautions against,obviate,preclude,precaution
-预防,prevent,take precautions against,preclude
 预防的,precautionary,preventive
 预防法,preservative,prophylactic
 预防方法,preventive
@@ -54798,13 +54609,13 @@
 预防接种,vaccinate
 预防狂犬病的,antirabic
 预防药,preservative,preventive,prophylactic
-预防药,preservative,预付,advance,prepay
+预付,advance,prepay
 预付的,imprest
 预付的工资,dead horse
 预付款,imprest
 预感,foreboding,hunch,premonition,presage,presentiment
-预感,foreboding,premonition,预告,foretell,harbinger,announce,forerun,foreshow,preacquaint,vaticinate
-预告,foretell,announce,foreshow,预告的,premonitory
+预告,foretell,harbinger,announce,forerun,foreshow,preacquaint,vaticinate
+预告的,premonitory
 预告片,prevue
 预告者,premonitor
 预购,purchase in advance
@@ -54812,7 +54623,7 @@
 预后,prognosis
 预后的,prognostic
 预见,foresee,foresight,foreknow,predict,prefigure
-预见,foresee,foreknow,预浇制,precast
+预浇制,precast
 预缴,prepay
 预觉,presentiment
 预科,preparatory
@@ -54839,7 +54650,6 @@
 预习,prepare lessons before class
 预先,beforehand,in advance,pre-requisite,ready,up front
 预先安排,prearrange,predispose
-预先安排,prearrange
 预先处理,foreclose
 预先放火,backfire
 预先加热,preheat
@@ -54859,7 +54669,7 @@
 预先制造,prefabricate
 预先注定命运,preordain,preordination
 预想,expect,forecast,anticipate,preconceive,prefigure
-预想,expect,anticipate,预选,preelection
+预选,preelection
 预言,predict,prognostic,augur,auspicate,foretell,prognosticate,prophesy,weird
 预言的,prophetic,fatidical,mantic,pythonic
 预言能力,prophecy
@@ -54870,7 +54680,7 @@
 预展,preview
 预兆,omen,prelude,presage,bodement,harbinger,shadow
 预兆的,bodeful,boding,ominous
-预兆的,bodeful,预知,predict,foresee,foreknow,portend,presage,previse,prognosticate
+预知,predict,foresee,foreknow,portend,presage,previse,prognosticate
 预知的,prescient
 预制,prefabricate
 预制的,precast,prefab
@@ -54878,10 +54688,8 @@
 预作,precompose
 域,field,region,territory
 欲,choose,desire,be just going to,wish
-欲,choose,be just going to
 欲罢不能,cannot help doing sth.
 欲盖弥彰,the more what one tries to hide,the more what one tries to hide
-欲盖弥彰,the more what one tries to hide
 欲壑难填,boundless avarice
 欲加之罪，何患无词,if you want to condemn sb. you can always find out a charge
 欲擒故纵,leave sb. at large in order to apprehend him afterwards
@@ -54890,7 +54698,6 @@
 欲速则不达,more haste,more haste
 欲望,desire,appetite,libido,lust
 欲望的,libidinal,orectic
-欲望的,libidinal
 谕,instruct
 阈,threshold
 阈限,limen
@@ -54922,7 +54729,6 @@
 遇见,encounter,meet,see,strike
 遇救,be rescued,be saved
 遇难,be murdered,die in an accident
-遇难,be murdered
 遇难船,shipwreck,wrecking
 遇险,be in danger,meet with a mishap
 遇险信号,distress call
@@ -54930,7 +54736,6 @@
 愈,better,heal,more,recover
 愈合,cicatrize,close up,heal,scar,skin
 愈加,all the more,even more
-愈加,all the more
 誉,praise,reputation
 豫,comfort,please
 鹬蚌相争渔翁得利,the third party benefits from the tussle
@@ -54955,8 +54760,7 @@
 元,basic,buck,chief,dollar,first,Yuan
 元旦,new year's day
 元件,component,element,organ
-元件,component,元老,patriarch,senior statesman
-元老,patriarch
+元老,patriarch,senior statesman
 元老院,curia
 元气,vigour,vitality
 元气旺盛的,vigorous
@@ -54980,7 +54784,7 @@
 元音性的,vocalic
 员,a person engaged in some field of activity,member
 员工,employee,personnel,stuff
-员工,employee,园,garden
+园,garden
 园地,field,garden plot
 园丁,gardener
 园林,gardens,park
@@ -54988,7 +54792,6 @@
 园艺,gardening,horticulture
 园艺的,horticultural
 园艺家,gardener,horticulturist
-园艺家,gardener
 垣,wall
 原,former,original
 原版,original edition
@@ -55002,15 +54805,14 @@
 原稿,manuscript
 原稿截止时间,deadline
 原告,accuser,plaintiff,prosecutor
-原告,accuser,原告的否认抗辩,replication
+原告的否认抗辩,replication
 原籍,ancestral home
 原来,formerly,originally
-原来,formerly
 原来的,customary,pristine,quondam
 原来属有,inhere
 原理,elements,philosophy,principium,principle,theory
 原谅,forgive,pardon,excuse,get over,look over
-原谅,forgive,excuse,原料,raw material,staple,stock,stuff
+原料,raw material,staple,stock,stuff
 原料染色,ingrain
 原棉,cotton wool
 原木,log
@@ -55045,7 +54847,6 @@
 原文如此,sic
 原物,original,protoplast
 原先,formerly,originally
-原先,formerly
 原形,original shape
 原形毕露,betray oneself,show one's true colours
 原形质,protoplasm
@@ -55074,7 +54875,6 @@
 原主,original owner
 原住民,aborigines
 原著,origianl work,progenitor
-原著,origianl work
 原状,original state,previous condition
 原子,atom,atomy
 原子尘,fallout
@@ -55116,12 +54916,11 @@
 圆盾,targe
 圆盾形的,scutate
 圆规,bow compass,compasses
-圆规,bow compass
 圆弧测定器,cyclometer
 圆弧规,arcograph,cyclograph
 圆花窗,rose window
 圆滑的,sleek,slick and sly,pliable,politic,saponaceous,silken,slippery,smooth,soapy
-圆滑的,sleek,pliable,saponaceous,slippery,圆滑的人,a smooth article
+圆滑的人,a smooth article
 圆环,cirque
 圆环面,torus
 圆火炉,potbelly
@@ -55204,12 +55003,11 @@
 援救,rescue,save
 援军,reinforcements
 援手,aid,rescue
-援手,aid
 援外,aid foreign
 援引,cite,invoke,quote
 援用,cite,quote
 援助,aid,assistance,help,ministration,subvention,succor,support
-援助,aid,help,subvention,援助者,backer,succor
+援助者,backer,succor
 缘,along,edge,predestined relationship,reason
 缘分,lot,luck
 缘故,cause,reason,sake
@@ -55221,7 +55019,6 @@
 源流,headstream
 源泉,fountainhead,headspring,source,spring,well
 源头,fountainhead,source
-源头,fountainhead
 源于,root
 源源本本,from beginning to end
 源远流长,of long standing
@@ -55268,7 +55065,6 @@
 远离,aloof,far from
 远离的,removed
 远虑,foresight,long view
-远虑,foresight
 远僻处,jumping-off place
 远期,at a specified future date
 远期的,long-dated
@@ -55338,7 +55134,6 @@
 曰,call,name,say
 约,about,agreement,arrange,make an appointment,pact
 约旦,Jordan,Jordanian
-约旦,Jordan
 约旦的,Jordanian
 约旦河,Jordan
 约等于,approximate
@@ -55367,7 +55162,6 @@
 月度,monthly
 月光,moon,moonbeam,moonlight,moonrise,moonshine
 月光照耀的,moonlit,moonshiny
-月光照耀的,moonlit
 月桂,bay
 月桂冠,baywreath
 月桂树,laurel
@@ -55410,9 +55204,8 @@
 钥匙,key
 钥匙圈,key ring
 悦,happy,pleased
-悦,happy
 悦耳的,dulcet,euphonic,euphonious,pleasing to the ear,sweet
-悦耳的,dulcet,euphonious,悦耳之音,euphony
+悦耳之音,euphony
 悦服,heartily admire
 悦目的,easy on the eyes,pleasing to the eye,sightly
 悦人的,gratifying
@@ -55485,7 +55278,6 @@
 云状的烟,cloud
 匀,divide evenly,even,spare
 匀称,rhythm,symmetry
-匀称,rhythm
 匀称的,well-balanced,well-proportioned
 匀净的,even,uniform
 匀整,even and orderly
@@ -55514,7 +55306,6 @@
 运筹学,operational research
 运道,ascendant,ascendent
 运动,athletics,sport,campaign,exercise,movement,play
-运动,athletics,campaign,movement
 运动比赛转播,sportscast
 运动病,motion sickness
 运动场,playground,playing field,schoolyard
@@ -55525,7 +55316,6 @@
 运动竞赛,athleticism
 运动犁,gangplow
 运动衫,jersey,sport shirt,sweat shirt,sweater
-运动衫,jersey,sweat shirt
 运动神经的,motorial
 运动失调的,ataxic
 运动物体,mobile
@@ -55562,7 +55352,7 @@
 运货马车运送,drayage
 运货汽车,motor-lorry
 运煤船,coal carrier,coaler,collier
-运煤船,coal carrier,运煤工人,coal-heaver
+运煤工人,coal-heaver
 运煤铁路,coaler
 运气,cess,fate,fortune,hap,lot,lottery,luck,star
 运气不好,out of luck
@@ -55589,11 +55379,10 @@
 运载,carry
 运载工具,means of delivery
 运载火箭,carrier rocket,launch vehicle
-运载火箭,carrier rocket
 运载技术,delivery technology
 运转,go,operate,run,work
 运转的,locomotive,locomotor,operative,rotary,working
-运转的,locomotive,operative,运转着,in operation
+运转着,in operation
 运走,carry away
 运作的,operational
 晕,dizzy,faint,giddy,swoon
@@ -55612,7 +55401,6 @@
 晕头转向,confused and disoriented
 晕眩,qualm,stun,turn
 晕眩的,dizzy,stupid
-晕眩的,dizzy
 晕晕忽忽,dizzy,muddleheaded
 酝酿,brew,deliberate,ferment
 酝酿成熟,incubate
@@ -55620,7 +55408,6 @@
 愠怒的,inwardly angry,mumpish,sour,sullen
 韵,charm,musical sound,rhyme
 韵脚,feet,rhyme
-韵脚,feet
 韵律,cadence,gradus,meter,metre,rhythm
 韵律的,metrical
 韵律论,rhythmics
@@ -55628,7 +55415,6 @@
 韵律学者,prosodist
 韵律研究,rhythmics
 韵味,lasting appeal,lingering charm
-韵味,lasting appeal
 韵文,poesy,poetry,rhyme,verse
 韵语,crambo
 熨,iron,unknit
@@ -55686,7 +55472,7 @@
 杂品,sundry goods
 杂评的,paragraphic
 杂色,motley,mottle,variegation
-杂色,motley,杂色的,motley,mottled,varied,variegated,heather,various
+杂色的,motley,mottled,varied,variegated,heather,various
 杂色的,motley,varied,heather
 杂色衣服,motley
 杂声,hum
@@ -55702,7 +55488,6 @@
 杂税,miscellaneous levies
 杂谈,by-talk,tittle-tattle
 杂文,essay,scribble
-杂文,essay
 杂闻,sidelight
 杂务工,utility man
 杂物,cats and dogs,sundries
@@ -55734,7 +55519,6 @@
 灾情,the situation of a disaster
 灾区,disaster area
 栽,fall,frame,grow,impose,insert,plant
-栽,fall,grow,insert
 栽跟头,suffer a setback,tumble
 栽培,cultivate,culture,foster,nurse,plant
 栽培花卉,floriculture
@@ -55745,7 +55529,7 @@
 栽植的,cultivated
 栽种,bed,grow,plant,rear
 宰,butcher,govern,slaughter
-宰,butcher,宰割,invade and exploit
+宰割,invade and exploit
 宰杀,butcher,slaughter
 宰相,prime minister in feudal China
 载,carry,hold,record,year
@@ -55759,7 +55543,6 @@
 载频,carrier frequency
 载体,carrier
 载运,carry,transport
-载运,carry
 载重,carrying capacity,load
 崽,son,young,young animal
 再,again,anew,more,once more,re-,return
@@ -55792,7 +55575,7 @@
 再定位,reorientation
 再读,reread
 再度,afresh,once again,once more
-再度,afresh,再度出现,reemerge
+再度出现,reemerge
 再度堕落,relapse
 再度觉醒,reawaken
 再度命名,rechristen
@@ -55807,10 +55590,8 @@
 再发生的,recurrent
 再发现,rediscover
 再发作,recrudesce,recrudescence
-再发作,recrudesce
 再反响,reecho
 再犯,recommit,recommittal
-再犯,recommit
 再贩卖,resale
 再访,revisit
 再访问,revisit
@@ -55859,7 +55640,6 @@
 再考虑,reconsider,reconsideration
 再课税,reassess
 再肯定,reaffirm,reaffirmation
-再肯定,reaffirm
 再控告,recharge
 再来,recur
 再利用,recycle
@@ -55877,7 +55657,6 @@
 再起草,redraft
 再强加,reimpose
 再区分,redistribute,redistribution
-再区分,redistribute
 再取,retake
 再取得,reseizure
 再确认,cross-check
@@ -55886,17 +55665,15 @@
 再任命,reappoint,renominate,renomination
 再入,reentry
 再三,again and again,over and over again,repeatedly
-再三,again and again,再三的,repeated
+再三的,repeated
 再三的努力,siege
 再三地,again and again,repeatedly
-再三地,again and again
 再上船,reship
 再上演,represent
 再审,re-try,rehear,retrial
 再审查,reconsideration
 再审问,reexamination
 再生,second birth,palingenesis,rebirth,regeneration,regenesis,reincarnation
-再生,second birth,rebirth,regenesis
 再生产,reproduction
 再生处理,retexture
 再生的,reborn,regenerative,renascent,reproductive,self-born
@@ -55923,7 +55700,6 @@
 再吸收的,resorbent
 再袭击,recharge
 再现,emersion,reappearance,recurrence,redivivus,reproduction,resurgence
-再现,emersion,recurrence,reproduction
 再想,rethink
 再校稿,revise
 再行检讨,restudy
@@ -55961,7 +55737,6 @@
 在附近,nearby,around,about,at hand,close by,close to,right round
 在岗,on guard
 在乎,care about,mind
-在乎,care about
 在即,shortly,soon
 在家,be at home,home,in,stay in,stick in
 在劫难逃,there is no escape
@@ -55969,7 +55744,6 @@
 在前,afore,fore,prior to
 在前的,advanced,antecedent,anterior,fore,forward,leading,precedent,preceding
 在上,aloft,up
-在上,aloft
 在世,above ground,be living
 在世上,on earth
 在所不辞,will not hesitate to
@@ -55981,7 +55755,7 @@
 在握,be within one's grasp
 在下,I,under
 在先,formerly,in the past,onward
-在先,formerly,在先的,precedent,prevenient,prior
+在先的,precedent,prevenient,prior
 在线的,on-line
 在线式,online
 在心,be attentive,take care
@@ -56001,7 +55775,7 @@
 簪子,hair clasp
 咱,I,we
 攒,assemble,collect together,save money
-攒,assemble,暂,of short duration,temporary
+暂,of short duration,temporary
 暂定,interim
 暂定的,provisional,tentative
 暂搁,abeyance
@@ -56025,7 +55799,6 @@
 暂停,pause,break off,lull,stay,suspend
 暂停的,suspensive
 暂行的,provisional,temporary
-暂行的,provisional
 暂住,shack
 赞,assist,commend,favour,praise,support
 赞不绝口,full of praise
@@ -56046,7 +55819,7 @@
 赞美诗的,hymnal
 赞美诗歌唱者,choralist
 赞美诗集,hymnal,hymnbook,psalmody
-赞美诗集,hymnal,赞美诗学,hymnology
+赞美诗学,hymnology
 赞美诗学者,hymnodist
 赞美诗研究,hymnody
 赞美诗作者,hymnist,hymnologist,psalmist,psalmodist
@@ -56060,18 +55833,17 @@
 赞颂者,eulogist
 赞叹,gasp in admiration,highly praise
 赞同,agree with,applaud,approve,acclaim,concurrence,endorse,go along with
-赞同,agree with,approve,concurrence,赞许,applause,approve,commend,praise
+赞许,applause,approve,commend,praise
 赞许的,favorable
 赞许地,approvingly
 赞扬,praise,commend,exalt,glorify,preach up,talk up,turn up the thumbs
 赞扬的,praiseful
 赞誉,recognition
 赞助,sponsor,assistance,auspice,commitment,committal,enlist,patronage,support
-赞助,sponsor,auspice,committal,patronage
 赞助人,patron
 赞助者,sponsor
 錾,carve,chisel,gad
-錾,carve,赃,bribes,spoils,stolen goods
+赃,bribes,spoils,stolen goods
 赃官,corrupt official
 赃款,illicit money
 赃物,melon,spoils,swag,theft,thievery
@@ -56082,12 +55854,12 @@
 脏器,viscera
 脏水,sewage
 脏污,smirch,smudge,smudginess,squalidity,sully
-脏污,smirch,smudginess,脏污的,smudgy
+脏污的,smudgy
 脏字,dirty word,obscene word
 葬,bury,inter
 葬歌,coronach
 葬礼,burial,funeral,obsequies
-葬礼,burial,葬礼的,funerary,obsequial
+葬礼的,funerary,obsequial
 葬旗,bannerol
 葬身,be buried
 葬身鱼腹,go to Davy Jone's locker
@@ -56107,7 +55879,7 @@
 遭殃,suffer disaster
 遭遇,confront,encounter,experience,incur,undergo
 糟,flooey,grains,in a mess,poor,rotten
-糟,flooey,in a mess,糟糕的,perishing,terrible,too bad
+糟糕的,perishing,terrible,too bad
 糟害,damage,make havoc of
 糟糠,chaff
 糟乱,tousle
@@ -56135,7 +55907,6 @@
 早产儿保育器,incubator
 早朝,levee
 早晨,morn,morning
-早晨,morn
 早晨的,matutinal
 早成,precocity
 早成的,precocious
@@ -56154,12 +55925,10 @@
 早期的,inchoate
 早期艺术家,primitive
 早起,get up early,rise with the lark
-早起,get up early
 早起早睡,keep early hours
 早日,at an early date,early,soon
 早上,morning
 早熟,earliness,forwardness,precocity,prematurity
-早熟,earliness,precocity
 早熟的,early,precocious,premature,rareripe
 早熟性的,precocial
 早衰,premature senility
@@ -56192,7 +55961,6 @@
 灶台,hearth
 皂,black,soap
 皂白,black and write,right and wrong
-皂白,black and write
 皂化,saponification
 皂皮树,soapbark
 皂石,soapstone
@@ -56212,7 +55980,6 @@
 造船专家,shipbuilder
 造次,hasty,impetuous,rash
 造反,rebel,revolt
-造反,rebel
 造反的,rebel,rebellious
 造访,call on,pay a visit
 造福,benefit
@@ -56254,7 +56021,6 @@
 造作,make
 造作的,artificial
 噪,confusion of voices,chirp
-噪,confusion of voices
 噪狂者,manic
 噪音,noise,noises,sound
 噪音污染,noise pollution,sound pollution
@@ -56269,7 +56035,6 @@
 择日,choose an auspicious day
 择善而从,choose and follow what is right
 泽,damp,lustre,pond,pool
-泽,damp,pond
 泽国,inundated area
 责,blame,demand,duty,punish,repove,require,responsibility
 责备,blame,condemn,accuse,criminate,remonstrate,reproach
@@ -56283,7 +56048,6 @@
 责骂,reprove,scold,call down,chide,rebuke,smack down
 责骂的,vituperative
 责难,arraignment,censure,impugnment,imputation,inculpation,oppugn,reflection,twit
-责难,arraignment,impugnment,inculpation,reflection
 责难的,accusing,dyslogistic,inculpatory
 责难的人,decrier
 责任,duty,responsibility,liability,burden,obligation
@@ -56307,17 +56071,17 @@
 贼赃,booty,spoils,stealing
 怎,how,what,why
 怎么,how,what,why
-怎么,how,怎样,how
+怎样,how
 曾,ever
 曾经,at one time,ever,once
-曾经,at one time,曾经沧海,have experienced great things
+曾经沧海,have experienced great things
 曾经到过,have been to
 增,add,gain,increase
 增补,augment,subjoin,supplement
 增补者,enlarger
 增产,increase production
 增长,grow,increase,mount,mount up,rise
-增长,grow,mount,增大,accretion,aggrandizement,augment,augmentation
+增大,accretion,aggrandizement,augment,augmentation
 增大的,increscent
 增订,revise and enlarge
 增多,grow in quantity,increase,manifold
@@ -56356,11 +56120,9 @@
 增印,reimpression
 增援,reinforce
 增值,appreciation,increment
-增值,appreciation
 增殖,proliferate,proliferation,propagation
 增殖的,proliferous
 增殖者,multiplier,propagator
-增殖者,multiplier
 憎,abhor,detest,hate,resent
 憎恶,hate,labhor,abominate,execrate,loathe,resent,revolt at
 憎恨,be abhorrent of,despite,detest,execrate,hate
@@ -56375,11 +56137,9 @@
 赠物,beneficence,gratuity
 赠言,words of advice given at parting
 赠予,confer,gift
-赠予,confer
 赠予的,given
 赠予者,alienator,settler
 赠与,bestowal,presentation
-赠与,bestowal
 赠与的,donative
 赠与款,grant-in-aid
 赠阅,given free by the publisher
@@ -56391,11 +56151,9 @@
 喳喳叫地,chirpily
 喳喳声,chirp
 渣,broken bits,dregs,residue,sediment
-渣,broken bits,residue
 渣块,clinker
 渣棉,slag wool
 渣滓,dregs,dross,residue,sediment
-渣滓,dregs,residue
 渣滓的,fecal
 扎,bind,bunch,get into,pink,prick,prickle,string,tie
 扎根,take root
@@ -56407,7 +56165,7 @@
 扎营,camp,encamp,pitch,sit down
 札记,reading notes
 轧,make friends,roll,roll steel
-轧,make friends,轧布,mangle
+轧布,mangle
 轧布机,mangle
 轧齿边,milling
 轧钢,steel rolling
@@ -56420,7 +56178,6 @@
 轧棉机,gin
 轧轧声,chug
 轧住,jam,shut
-轧住,jam
 闸,brake,gate,sluice gate,switch
 闸板,flashboard
 闸沟,sluiceway
@@ -56434,7 +56191,7 @@
 乍,first,for the first time,spread,suddenly
 乍一看,at first sight,at the first blush
 诈,cheat,pretend,swindle
-诈,cheat,诈称,arrogate,arrogation
+诈称,arrogate,arrogation
 诈唬,bluster
 诈婚诉讼,jactitation
 诈降,pretend to surrender
@@ -56451,9 +56208,8 @@
 栅,bar
 栅极,grid
 栅栏,bail,barrier,crib,fence,rail fence,stockade
-栅栏,bail,crib,rail fence
 炸,blast,bomb,burst,explode,fry
-炸,blast,burst,炸弹,bomb,bombshell,crump
+炸弹,bomb,bombshell,crump
 炸弹舱门,bomb-hatch
 炸得吱吱响,frizzle
 炸毁,bomb out,dynamite
@@ -56464,7 +56220,7 @@
 炸土豆片,potato chip
 炸丸子,croquette
 炸药,charge,dynamite,explosive
-炸药,charge,炸药使用者,dynamiter
+炸药使用者,dynamiter
 蚱蜢,grasshopper,locust
 榨,extract,press,squeeze,wring
 榨出,crush out,squeeze out,sweat
@@ -56473,7 +56229,7 @@
 榨取,bleed,extort,milk,rack,ream,squeeze,wring
 榨渣,marc
 斋,fast,give alms,room
-斋,fast,斋戒,abstain from meat,fast
+斋戒,abstain from meat,fast
 斋戒沐浴,ablution
 斋戒日,fast day
 斋期,fast,fast days
@@ -56485,7 +56241,7 @@
 摘掉茎,stem
 摘花,defloration
 摘录,cento,excerpt,snippet
-摘录,cento,摘去嫩芽,disbud
+摘去嫩芽,disbud
 摘去芽,chit,sprout
 摘要,abstract,brief,condense,resume,scheme,summary,synopsis
 摘要的,summary
@@ -56493,7 +56249,6 @@
 摘要记载下来,jot
 摘引,quote
 宅,house,residence
-宅,house
 宅地,curtilage
 宅门,gate of an old-style
 宅院,house
@@ -56510,7 +56265,6 @@
 债券持有人,load holder
 债台高筑,be heavily in debt
 债务,debt,liability
-债务,debt
 债务人,debtor,obligor
 债主,creditor,renter
 寨,stockaded village
@@ -56524,7 +56278,6 @@
 沾上斑点,speckle
 沾湿,bedew
 沾手,have a hand in,touch with one's hand
-沾手,have a hand in
 沾污,flyblow,smirch,sully
 沾污神圣,profanity
 沾污神圣的,profanatory
@@ -56560,7 +56313,6 @@
 粘贴上去的,stick-on
 粘土,clay,clunch
 粘土层,claypan,hardpan
-粘土层,claypan
 粘土的,argillaceous,clayey
 粘土湖,claypan
 粘土似的,argillaceous
@@ -56588,7 +56340,6 @@
 粘住,stick,stick down,stick to
 粘住的,clingy
 粘着,adhere,bond,cleave,cohere
-粘着,adhere,cleave
 粘着的,adhesive,agglutinate,cohesive,gluey
 粘着剂,agglutinant
 粘着状态,agglutination
@@ -56615,7 +56366,6 @@
 展出者,shower
 展缓,deferment,postpone,prolong
 展开,spread,unfold,deploy,evolve,open,carry out,splay,stream
-展开,spread,deploy,open,splay
 展开的,evolving
 展开性,extensibility
 展览,exhibit,put on display,show
@@ -56631,7 +56381,7 @@
 展望,expectation,forecast,view,vista
 展望镜,periscope
 展现,exhibit,show,emerge,lie,open
-展现,exhibit,emerge,盏,small cup
+盏,small cup
 崭露头角,cut a figure,make a figure
 崭新,newness,recency
 崭新的,brand new,completely new,neoteric,span-new,spick-and-span
@@ -56646,7 +56396,6 @@
 占卜板,ouija
 占卜师,augur
 占卜者,prognosticator,soothsayer
-占卜者,prognosticator
 占多数,be in the majority
 占卦,divination
 占卦的,divinatory
@@ -56673,25 +56422,23 @@
 占星学,astrology
 占用,tie up
 占优势,be in the ascendant,dominate,preponderate,reign
-占优势,be in the ascendant,preponderate
 占优势的,ascendant,ascendent,dominant
-占优势的,ascendant,占有,occupy,own,possess,have,seize on,take possession of
+占有,occupy,own,possess,have,seize on,take possession of
 占有,occupy,possess,seize on
 占有的,possessive
 占有某物,come into possession of,be in possession of
 占有期间,occupation
 占有物,a chose in possession
 占有者,occupant,seizor
-占有者,occupant
 占有着,be seized of
 占兆,augury
 占兆官,augur
 战,battle,fight,war
-战,battle,战败,be defeated,defeat,lose the bell,vanquish
+战败,be defeated,defeat,lose the bell,vanquish
 战报,battlefield report
 战备,combat readiness
 战场,field of honour,battle field,battleground,cockpit,stricken field
-战场,field of honour,battleground,战车,chariot
+战车,chariot
 战车的御者,charioteer
 战车镰,scythe
 战船,warship
@@ -56752,14 +56499,13 @@
 战区,war zone
 战伤的,battle-scarred
 战神,Ares,Mars
-战神,Ares
 战胜,conquer,overcome,surmount,defeat,have the battle,outdo
 战时,wartime
 战时的,war
 战时津贴,batta
 战时盟国,cobelligerent
 战士,champion,fighter,paladin,soldier,warrior
-战士,champion,paladin,战事,war,warfare
+战事,war,warfare
 战书,letter of challenge,written challenge to war
 战术,tactics,war
 战术的,tactical
@@ -56787,8 +56533,7 @@
 站得住脚,hold water,stand up
 站队,stand in line
 站岗,sentry,stand guard,stand sentry
-站岗,sentry,站开,stand aside,stand clear
-站开,stand aside
+站开,stand aside,stand clear
 站立,arise,stand
 站立不动,plant oneself
 站立的,stand-up
@@ -56824,13 +56569,13 @@
 张口,dehisce,yawn
 张口发呆地,agape
 张口结舌,at a loss for word,see a wolf,with open mouth
-张口结舌,at a loss for word,张狂,insolent
+张狂,insolent
 张力,strain,tensility,tension
 张力的,tensile,tensional,tensive
 张力计,tensiometer
 张量,tensor
 张罗,get together,greet and entertain,take care of
-张罗,get together,张满的,full-blown
+张满的,full-blown
 张满帆,fill the sails
 张三李四,anybody
 张贴,paste,put up
@@ -56839,17 +56584,15 @@
 张帖,placard
 张网的,netted
 张望,look around,peep
-张望,look around
 张牙舞爪,make threatening gestures,sabre rattling
 张扬,make public,stink
 张应力,tensile stress
 张着帆,in sail,under canvas,under sail
 张嘴,ask for a favor,gape,open one's mouth
 章,badge,chapter,order,rules,seal
-章,badge,order,章程,constitution,regulations,rule,statute
+章程,constitution,regulations,rule,statute
 章动,nutation
 章法,art of composition,orderly ways
-章法,art of composition
 章节,chapter,section
 章节的,paragraphic
 章节后的空白,flyleaf
@@ -56881,7 +56624,7 @@
 掌马官,equerry
 掌旗官,ensign
 掌权,be in the saddle,come into power,be in power
-掌权,be in the saddle,掌权当家,wear the trousers
+掌权当家,wear the trousers
 掌权者,hierarch
 掌上明珠,a beloved daughter,a pearl in the palm
 掌勺,be the chef
@@ -56905,7 +56648,7 @@
 仗义疏财,be generous in aiding needy people
 仗义执言,speak out from a sense of justice
 帐,account,account book,canopy,credit,curtain,debt,veil
-帐,account,canopy,curtain,帐簿,account book
+帐簿,account book
 帐单,bill,tab
 帐户,account
 帐款,funds on account
@@ -56952,7 +56695,6 @@
 招风,attract too much attention,catch the wind
 招风耳,protruding ears
 招供,confess,make a confession
-招供,confess
 招股,raise capital by floating shares
 招呼,accost,call,hail,notify,salute,take care of
 招呼站,flag stop
@@ -56975,7 +56717,6 @@
 招聘,invite applications for a job
 招惹,incur,provoke
 招惹麻烦,bring a hornets' nest about one's ears,stir up a nest of hornets
-招惹麻烦,bring a hornets' nest about one's ears
 招惹是非,wake a sleeping dog
 招认,avow,confess one's crime,shrift
 招生,recruit students
@@ -57097,7 +56838,7 @@
 照市价,at the market
 照说,ordinarily
 照相,photo,photograph,take a picture
-照相,photo,照相凹版,gravure,rotogravure
+照相凹版,gravure,rotogravure
 照相凹版,gravure
 照相版雕刻法,autogravure
 照相版印刷,photo-offset
@@ -57110,7 +56851,7 @@
 照相机,camera
 照相录秒器,photochronograph
 照相排版,photocomposition,phototypesetting,phototypography
-照相排版,photocomposition,照相平版,photolithography
+照相平版,photolithography
 照相师,cameraman
 照相凸版,photoengraving
 照相望远镜,phototelescope
@@ -57279,7 +57020,7 @@
 赭石,ochre
 赭土,reddle
 褶,plait,pleat,ply
-褶,plait,褶襞,shirring
+褶襞,shirring
 褶成绉边,frill
 褶饰,ruching
 褶皱,drape
@@ -57289,7 +57030,6 @@
 这边,here,hither,this side
 这边的,hither
 这次,current,this time
-这次,current
 这个,this,this one
 这里,here,over here
 这么,like this,so,such,this
@@ -57301,7 +57041,7 @@
 这样那样的,such-and-such
 蔗,sugar cane
 蔗糖,cane sugar,saccharose,sucrose
-蔗糖,cane sugar,蔗渣,bagasse
+蔗渣,bagasse
 鹧鸪,partridge
 贞,chastity,faithful,loyal
 贞操,chastity,loyalty
@@ -57310,15 +57050,14 @@
 贞节的模范,Lucretia
 贞洁,pudicity
 贞洁的,chaste,virgin,virtuous
-贞洁的,chaste,贞洁地,chastely,purely
+贞洁地,chastely,purely
 贞烈,ready to die to preserve one's chastity
 针,acupuncture,injection,needle,pin,pricker,stitch
-针,acupuncture,needle,pricker
 针刺孔,pinprick
 针的,pin,spinal
 针垫,pincushion
 针对,be dead against,aim at,be aimed at,contrapose,counter
-针对,be dead against,be aimed at,针法,stitch
+针法,stitch
 针锋相对,give tit for tat
 针锋相对的争论,swordplay
 针锋相对地,measure for measure,tit for tat
@@ -57372,7 +57111,6 @@
 珍爱的,precious
 珍爱物,the apple of one's eye
 珍宝,jewellery,treasure
-珍宝,jewellery
 珍本,rare edition
 珍本贩卖,bibliopoly
 珍藏,collect carefully,treasure up
@@ -57381,7 +57119,7 @@
 珍贵物,gem,pearl,swag
 珍品,curiosa,curiosity,titbit,treasure
 珍奇,like nothing on earth,newness,rareness
-珍奇,like nothing on earth,珍奇的,freakish,rare
+珍奇的,freakish,rare
 珍视,cherish,treasure,value
 珍丝,organzine
 珍丝制网,organzine
@@ -57405,10 +57143,8 @@
 真的,forsooth,real,trueborn,veritable
 真地,veritably
 真谛,essence,true meaning
-真谛,essence
 真分数,proper fraction
 真格的,real,true
-真格的,real
 真迹,authentic work
 真假,true and false
 真假可疑,disputability
@@ -57432,7 +57168,7 @@
 真皮,corium,真皮的,dermal
 真凭实据,conclusive evidence
 真切的,clear,distinct,vivid
-真切的,clear,真情,real situation,true feelings
+真情,real situation,true feelings
 真确的,clear,distinct,real,true
 真人真事,actual person and event
 真实,reality,trueness,verity,sincerity,sooth,troth
@@ -57445,8 +57181,8 @@
 真相,truth,real situation,fact,merit,right,score,right way
 真相大白,come out in the wash
 真心的,open-armed,sincere,wholehearted
-真心的,open-armed,真心真意的,heartfelt,sincere,wholehearted
-真心真意的,heartfelt,真意,intendment
+真心真意的,heartfelt,sincere,wholehearted
+真意,intendment
 真正,in deed,in word and deed
 真正的,true,unadulterated,genuine,intrinsic,real,right,unalloyed
 真正地,authentically,indeed,really and truly,veritably
@@ -57476,7 +57212,6 @@
 榛树,filbert
 榛树的,hazel
 榛子,filbert,hazel
-榛子,filbert
 箴言,admonition,maxim,motto,proverb
 臻,attain
 诊,examine
@@ -57514,7 +57249,7 @@
 阵挛的,clonic
 阵容,battle array,lineup
 阵势,battle array,condition,situation
-阵势,battle array,阵痛,labour pains,throe,travail,twitch
+阵痛,labour pains,throe,travail,twitch
 阵痛促进,oxytocic
 阵痛促进的,oxytocic
 阵亡,fall in battle,be killed in battle,death under shield
@@ -57527,7 +57262,7 @@
 振笔疾书的人,inkslinger
 振臂,raise one's arm
 振荡,oscillation,surge,vibration
-振荡,oscillation,振动,oscillate,vibrate,bob,librate,quiver
+振动,oscillate,vibrate,bob,librate,quiver
 振动的,oscillatory,vibrant,vibratile,vibrational,vibratory
 振动的人,vibrator
 振动滚筒,vibrator
@@ -57539,7 +57274,6 @@
 振奋,hearten,inspire,rouse oneself,stimulate,summon,wake
 振奋人心的,heart-stirring
 振幅,amplitude,swing
-振幅,amplitude
 振聋发聩,awaken the deaf,enlighten the benighted
 振聋发聩,awaken the deaf
 振振有辞,speak plausibly
@@ -57548,7 +57282,6 @@
 振作起,call forth
 振作起来,pull oneself together,pull up one's slacks
 朕,I,sign
-朕,I
 朕兆,omen,portent,sign
 朕兆,omen,赈,aid,relieve
 赈济,relieve
@@ -57567,7 +57300,6 @@
 镇静的,composed,sedate,imperturbable,mitigatory
 镇静地,undisturbedly
 镇静剂,calmative,depressant,mitigative,narcotic,pacifier,sedative
-镇静剂,calmative,mitigative,pacifier
 镇区,township
 镇守,guard
 镇痛,ease pain
@@ -57643,12 +57375,10 @@
 征伐,go on a punitive expedition
 征服,conquer,subjugate,crush,enslave,master,overmaster,vanquish,whop
 征服者,conqueror,conquistador
-征服者,conqueror
 征购,requisition by purchase
 征候,sign,symptom
 征候学,symptomatology
 征集,collect,recruit
-征集,collect
 征募,commandeer,enlistment,recruit
 征募的士兵,conscription
 征募新兵,recruit
@@ -57672,21 +57402,18 @@
 征兆,omen,portent,premonition,premonitor,sign,symptom
 怔,terrified
 峥嵘,extraordinary,lofty and steep,outstanding
-峥嵘,extraordinary,挣,earn,struggle to get free,wriggle
+挣,earn,struggle to get free,wriggle
 挣得,bring in
 挣得的,earned
 挣饭吃,earn one's keep
 挣命,struggle to save one's life
 挣钱,earn money,make money
-挣钱,earn money
 挣脱,break loose,flounce
 挣扎,struggle,flounce,flounder,scrabble,tug,welter
-挣扎,struggle,flounder,tug
 挣扎地,flounderingly
 狰狞,ferocious,savage
 睁,open eyes
 睁大眼睛的,pie-eyed,wide-eyed
-睁大眼睛的,pie-eyed
 睁眼的,goggle
 睁眼瞎子,illiterate person
 铮铮,clank
@@ -57695,7 +57422,6 @@
 蒸发,evaporate,steam,ablate,transpire,vapour
 蒸馏,distill,distillation,still
 蒸馏器,alembic,retort
-蒸馏器,alembic
 蒸馏室,still
 蒸馏水,distilled water
 蒸笼,steam box
@@ -57717,7 +57443,7 @@
 整除,divide exactly
 整除性,divisibility
 整队,draw up,dress the ranks,line up
-整队,draw up,整顿,consolidate,houseclean,reorganize,straighten
+整顿,consolidate,houseclean,reorganize,straighten
 整顿局面,put things straight
 整复术,taxis
 整个,entireness
@@ -57740,11 +57466,9 @@
 整流,commutate
 整流半导体,diode
 整流器,commutator,rectifier
-整流器,commutator
 整篇,entire chapter
 整齐,orderliness,tidiness,trimness
-整齐,orderliness,整齐的,neat,orderly,regular,dapper,straight,tidy,trim,in good order
-整齐的,neat,regular,straight,trim
+整齐的,neat,orderly,regular,dapper,straight,tidy,trim,in good order
 整齐地,fitly,shipshape,trimly
 整容,face-lifting,tidy oneself up
 整容术,cosmetology
@@ -57754,19 +57478,17 @@
 整套,a complete set of,cycle
 整套的餐具,dinnerware
 整体,integer,the all and the one,whole
-整体,integer,整体的,integral,monolithic,unitary
-整体的,integral,整体经济,macroeconomic
+整体的,integral,monolithic,unitary
+整体经济,macroeconomic
 整天,all day,all day long,day and night,the whole day
 整天地,all the day
 整形,plastic,plastics
-整形,plastic
 整形术,anaplasty
 整修,rebuild,refit,renovate,recondition
 整修,rebuild,renovate
 整修表面,refinish
 整修锯齿用工具,saw-doctor
 整夜,all night long,overnight
-整夜,all night long
 整整,full
 整整齐齐,in apple-pie order
 整整齐齐的,shipshape
@@ -57818,8 +57540,7 @@
 正反意向并存,ambitendency
 正方,square
 正方形,foursquare,quadrate,square
-正方形,foursquare,正方形的,foursquare,quadrate,square
-正方形地,foursquare
+正方形的,foursquare,quadrate,square
 正风行着的,slap-up
 正负号,sign
 正告,notice sternly
@@ -57831,23 +57552,19 @@
 正规军,regular,regular army
 正轨,the right path
 正好,just,pat
-正好,just
 正号,plus,positive sign
 正合时宜的,well-timed
 正会员,freeman
 正击,forehand
 正教,orthodoxy
 正襟危坐,be serious,straighten one's clothes and sit properly
-正襟危坐,be serious
 正经的,respectable,honest,serious,standard
 正经地,in earnest
 正楷字体,round hand
 正理,correct principle,valid reason
 正路,the right way
 正门,front door,main entrance
-正门,front door
 正面,facade,face,front,frontispiece
-正面,facade,front
 正面的,openly,positive,affirmative,frontal,obverse,right
 正面的,openly,affirmative,obverse
 正面地,point-blank,pro,slap
@@ -57869,7 +57586,6 @@
 正人君子,gentleman
 正人先正己,sweep before one's own door
 正如,even as,no less than
-正如,even as
 正色,adopt a stern countenance,pure colour
 正色的,orthochromatic
 正史,official history
@@ -57905,7 +57621,6 @@
 正析象管,orthicon
 正弦曲线,sinusoid,sinusoidal
 正相反,antithesis,on the contrary,over the left,quite the contrary
-正相反,antithesis,over the left
 正相反的,antipodal
 正相反的事物,antipode
 正相反之物,antipole
@@ -57938,7 +57653,6 @@
 证据的,evidential
 证据的总结,summing-up
 证明,prove,certify,argue,demonstrate,justify,manifest,testify,vouch
-证明,prove,argue,justify,testify
 证明的,probative
 证明合法,justify
 证明合适,prove out
@@ -57948,7 +57662,6 @@
 证明无罪,exonerate
 证明用的,proof
 证明者,attestor,certifier,demonstrator,voucher
-证明者,attestor,demonstrator
 证明正当,justification
 证明自己无罪的,purgative
 证明自己有理,make out one's case
@@ -57964,9 +57677,8 @@
 证人预先询问,precognition
 证实,approve,confirm,support,sustain,validate,verify
 证书,certificate,chirograph,letter
-证书,certificate,证物,exhibit
+证物,exhibit
 证言,attestation,testimony
-证言,attestation
 证验,real results
 证章,badge
 诤,admonish
@@ -58001,7 +57713,7 @@
 政权,political power,regime
 政事,government affair
 政体,polity,regime,system of goverment
-政体,polity,政务,government affair
+政务,government affair
 政治,political affair,politics,polity
 政治的,governmental,political
 政治犯,political offender,political prisoner
@@ -58064,12 +57776,10 @@
 支配,control,dominate,administrate,allocate,arrange,command,govern,rule
 支配的,dominant,hegemonic,presidential,ruling
 支配力,ascendant,ascendent,dominator
-支配力,ascendant,支配权,eminent domain,hegemony
-支配权,eminent domain
+支配权,eminent domain,hegemony
 支配者,dominator
 支票,check,cheque
 支票簿,checkbook,chequebook
-支票簿,checkbook
 支票存根,counterfoil
 支气管,bronchus
 支气管炎,bronchitis
@@ -58085,7 +57795,6 @@
 支吾其辞,prevaricate
 支吾其辞的,hesitative
 支线,branch line,lateral
-支线,branch line
 支行,subbranch of a bank
 支应,cope with,wait on
 支援,assist,boost,help,patronize,support
@@ -58101,7 +57810,7 @@
 吱吱的叫声,cheep
 吱吱尖叫的,strident
 吱吱叫,chipper,peep,squeak
-吱吱叫,chipper,吱吱叫的东西,squeaker
+吱吱叫的东西,squeaker
 吱吱叫鸣,stridulate
 吱吱声,squeak
 吱吱响的,squeaky
@@ -58122,7 +57831,6 @@
 枝叶,branches and leaves,minor details
 枝状大烛台,candelabra,candelabrum
 知,be aware of,be in charge of,inform,know,notify,realize
-知,be aware of,inform,notify
 知道,be aware of,be seized of,be wise to,become aware of,know,learn,realize,see
 知道的,aware,ware
 知道内情,be in the secret,know the ropes,on the inside
@@ -58134,7 +57842,6 @@
 知交,intimate friend
 知觉,cognition,consciousness,perception,perceptivity,percipience,sense,sentience
 知觉的,conscious,perceptive,perceptual,percipient,sensate,sensory
-知觉的,conscious,perceptual,sensate
 知觉对象,percept
 知觉力,perceptivity
 知觉力的,perceptional
@@ -58154,7 +57861,6 @@
 知识,information,knowledge,lore,reading
 知识宝库,thesaurus
 知识的,intellective,sciential
-知识的,intellective
 知识范围,ken
 知识分子,highbrow,intellect,intellectual,noetic
 知识分子的,highbrow
@@ -58188,7 +57894,7 @@
 织品,cloth,stuff
 织入的,inwrought
 织物,fabric,textile,web,weft,woof
-织物,fabric,web,织物检查工,percher
+织物检查工,percher
 织余,thrum
 栀子,gardenia
 脂,fat,grease,rouge
@@ -58214,7 +57920,7 @@
 蜘蛛网一般的,spidery
 执,capture,carry out,catch,grasp,hold,persist
 执拗,implacability,obduracy,pertinacity
-执拗,implacability,执拗的,obdurate,pertinacious,refractory,stubborn,crabbed,implacable,wilful
+执拗的,obdurate,pertinacious,refractory,stubborn,crabbed,implacable,wilful
 执拗地,crabbily,implacably
 执拗地讲,ding
 执笔,write
@@ -58236,7 +57942,7 @@
 执意,be determined to,insist on,persist
 执掌,in control of
 执照,charter,licence,license,patent,permit
-执照,charter,license,执政,be in office,be in power,be in the saddle,come into power,reign
+执政,be in office,be in power,be in the saddle,come into power,reign
 执政党议员,ministerialist
 执政的,ministerial,regnal
 执政官,archon,consul,praetor
@@ -58268,7 +57974,6 @@
 直达行驶,nonstop
 直到,as far as,through to,till,until,up to
 直到现在的,up-to-date,up-to-the-minute
-直到现在的,up-to-date
 直的,straight
 直根,taproot
 直观的,directly perceived through the senses
@@ -58294,7 +57999,7 @@
 直接受格的,accusatival,accusative
 直截了当,not to put too fine an edge on it
 直截了当的,blunt,flat-footed,straightforward
-直截了当的,blunt,直截了当地,straight from the shoulder,without preamble
+直截了当地,straight from the shoulder,without preamble
 直径,diameter
 直径的,diametral
 直锯,gang saw
@@ -58304,7 +58009,7 @@
 直立,bristle,endlong,erection,perpendicularity
 直立,bristle,erection
 直立的,erect,perpendicular,stand-up,upstanding,vertical
-直立的,erect,stand-up,直链淀粉,amylose
+直链淀粉,amylose
 直棂,mullion
 直流,direct current
 直流电,dc
@@ -58314,7 +58019,6 @@
 直率的,candid,forthright,bluff,brusque,plump,straightforward
 直率地,flat-out
 直眉瞪眼,stare blankly,stare in anger
-直眉瞪眼,stare blankly
 直平行六面体,cuboid
 直起来,straighten,straighten up
 直峭,bluffness
@@ -58328,7 +58032,6 @@
 直爽,be free with
 直爽的,candid,forthright,foursquare,frank
 直挺挺,stiff,straight
-直挺挺,stiff
 直纹纸,laid paper
 直系的,lineal
 直辖,directly under the jurisdiction of
@@ -58337,7 +58040,6 @@
 直线,beeline,straight line
 直线笔,ruling pen
 直线的,linear,rectilineal,sharp,steep
-直线的,linear,sharp
 直线地,point-blank
 直线滑降,schuss
 直线跑道,straightaway
@@ -58351,7 +58053,6 @@
 直言无讳,speak without reservation
 直言无讳的,outspoken
 直言无隐的,free-spoken,plainspoken
-直言无隐的,free-spoken
 直译,metaphrase,word-for-word translation
 直译程序,interpreter
 直译语,loan translation
@@ -58361,7 +58062,6 @@
 直属,directly under
 值,cost,value,happen to,on duty
 值班,be on duty,take up the ball
-值班,be on duty
 值班的,orderly
 值班名册,rota
 值班人,watch
@@ -58395,7 +58095,6 @@
 职员,employee,official,operative,personnel,staff member
 职责,business,duty,obligation,office,part,responsibility,trust
 职掌,be in charge of,duty
-职掌,be in charge of
 职杖,truncheon
 植,establish,plant,set up
 植虫的,zoophytic
@@ -58427,7 +58126,6 @@
 植物园,arboretum,vivarium
 殖,breed,multiply
 殖民,plantation,settlement
-殖民,plantation
 殖民的,colonial
 殖民地,colony,settlement
 殖民地的,colonial
@@ -58438,7 +58136,6 @@
 踯行类的,plantigrade
 踯躅,loiter around
 止,only,stop,till,to
-止,only,till
 止步,go no further,halt,stop
 止臭的,deodorant
 止动机构,stop mechanism
@@ -58466,7 +58163,6 @@
 只差一点,within an ace of
 只此一次,once for all
 只得,be obliged to,cannot choose but do,have no alternative but,have to
-只得,be obliged to,have no alternative but
 只读内存,RAM
 只顾,be absorbed in,merely,simply
 只顾自己,self-seeking
@@ -58477,7 +58173,6 @@
 只身,alone,by oneself
 只是,except,just,no more than,only,simply
 只言片语,a few words,book-phrase
-只言片语,a few words
 只要,if only,so as,so long as
 只要没有,short of
 只有,alone,no other than,none but,only
@@ -58544,7 +58239,7 @@
 指导原则,rudder,the golden rule
 指导原则,rudder
 指导者,fugleman,polestar,shepherd
-指导者,fugleman,指导者的,preceptorial
+指导者的,preceptorial
 指点,give directions
 指定,appoint,assign,designate,specify
 指定代理人,depute
@@ -58556,7 +58251,7 @@
 指骨,phalange,phalanx
 指环,ring
 指挥,direct,conduct,helm,lead,superintend
-指挥,direct,helm,指挥棒,baton
+指挥棒,baton
 指挥部,headquarters
 指挥操舵,conn
 指挥的,commanding,directive,directorial
@@ -58574,7 +58269,6 @@
 指甲孔,nailhole
 指甲钳,nail clippers
 指甲修饰师,manicure,manicurist
-指甲修饰师,manicure
 指尖,finger tip,fingertip
 指节,knuckle
 指距,span
@@ -58598,9 +58292,7 @@
 指示,indication,denotation,designation,prescription
 指示表,instruction sheet
 指示的,indicative,demonstrative,denotative,indicatory
-指示的,indicative,denotative
 指示灯,indicator light,pilot lamp
-指示灯,indicator light
 指示浮标,position buoy
 指示剂,indicator
 指示器,indicator
@@ -58621,7 +58313,6 @@
 指小词,diminutive
 指小的,diminutive
 指引,guide,show
-指引,guide
 指引的,how-to
 指印,finger mark,fingerprint
 指印,finger mark
@@ -58665,7 +58356,6 @@
 至圣,sacrosanctity
 至圣所,sanctum sanctorum
 至死,till death,to the end of the chapter
-至死,till death
 至于,as far as,as regards
 至远方,afield
 至尊的,imperial
@@ -58674,17 +58364,14 @@
 志大才疏,have high aspirations but little ability,hitch one's waggon to a star
 志气,ambition,backbone,spirit
 志趣,inclination,interest
-志趣,inclination
 志趣相同的,like-minded
 志趣相投,be congenial to
 志士,person of ideals and integrity
 志同道合,have a common goal,in the same camp
 志向,ambition,ideal
-志向,ambition
 志愿,will,wish
 志愿的,voluntary,volunteer
 志愿书,application,application form
-志愿书,application
 志愿者,postulant,voluntary,volunteer
 豸,insect without feet
 制,make,manufacture,restrict,system,work out
@@ -58696,7 +58383,7 @@
 制冰机,ice machine
 制饼厂,confectionery
 制裁,crack down on,punish,sanction
-制裁,crack down on,制餐刀商,cutler
+制餐刀商,cutler
 制成,crank out,execute
 制成表的,tabular
 制成箔,laminate
@@ -58706,7 +58393,6 @@
 制带的材料,belting
 制袋材料,bagging
 制袋用粗麻布,sackcloth,sacking
-制袋用粗麻布,sackcloth
 制导,control and guide
 制电版,electrotype
 制钉工厂,nailery
@@ -58745,7 +58431,6 @@
 制皮箱的人,trunkmaker
 制品,goods,product,ware
 制胜,get the upper hand of,subdue
-制胜,get the upper hand of
 制绳厂,ropery
 制绳的线,rope yarn
 制毯法,felting
@@ -58826,7 +58511,6 @@
 治疗病症的,sanative
 治疗的,remedial,therapeutic
 治疗法,cure,remedy
-治疗法,cure
 治疗坏血病的,antiscorbutic
 治疗热病的,pyretic
 治疗学,therapeutics
@@ -58858,7 +58542,7 @@
 质料,material,metal
 质朴,modesty,rusticity
 质朴的,plain,simple,unaffected
-质朴的,plain,质谱,mass spectra
+质谱,mass spectra
 质权人,pawnee
 质数,prime number
 质体,plastid
@@ -58870,7 +58554,6 @@
 质询,inquiry,interpellation,interpellation,interrogatory
 质押,impawn
 质疑,oppugn,query
-质疑,oppugn
 质子,proton
 质子加速器,bevatron
 峙,stand erect,tower
@@ -58887,7 +58570,6 @@
 桎梏,fetters and handcuffs,shackle
 秩,order
 秩序,method,order,sequence,system
-秩序,method,sequence
 秩序井然,orderliness
 秩序井然的,well-ordered
 致,deliver,devote,extend,cause,delicate,fine,incur,send
@@ -58899,11 +58581,10 @@
 致冷的,frigorific,refrigeratory
 致力,dedication
 致力于,betake,devote oneself to,apply oneself to,turn to
-致力于,betake,apply oneself to
 致密的,compact
 致命打击,death warrant
 致命的,fatal,deadly,deathful,causing death,lethal,mortal,vital
-致命的,fatal,deathful,lethal,致命的打击,deathblow
+致命的打击,deathblow
 致命地,fatally,vitally
 致歉,excuse
 致使,cause,lead,render,result
@@ -58922,7 +58603,6 @@
 掷钱币决定某事,toss,toss for sth.
 掷圈环,quoit
 掷铁饼,discus,discus throw
-掷铁饼,discus
 掷骰子,crap,dice,shake the elbows,throw
 掷土块,clod
 痔,naevus,tache
@@ -58978,7 +58658,6 @@
 稚气的,babyish
 稚子,child
 置,buy,establish,install,place,put,set up
-置,buy,install,put
 置办,buy,purchase
 置备,purchase
 置辩,argue
@@ -59081,7 +58760,6 @@
 中间色,demitint
 中间时期,interim
 中间物,in-between,intermediate
-中间物,in-between
 中间线,midline
 中间形态,instar
 中间型的,osculant
@@ -59109,12 +58787,10 @@
 中流砥柱,mainstay,tower of strength,firm rock in midstream
 中略,syncopation,syncope
 中落,decline,ebb
-中落,decline
 中脉,midrib
 中美洲,Central America
 中脑,midbrain
 中年,middle age,the autumn of one's life
-中年,middle age
 中年的,middle-aged
 中胚叶,mesoderm
 中篇小说,novelette,novella
@@ -59140,7 +58816,6 @@
 中枢梢,kingbolt
 中枢神经刺激剂,Dexedrine
 中暑,suffer sunstroke,heatstroke,insolation,siriasis
-中暑,suffer sunstroke,insolation
 中暑的,sweltering
 中提琴,viola
 中提琴演奏者,violist
@@ -59156,7 +58831,6 @@
 中途分道,stop-off
 中途落下,range short
 中途停留,stop off,stopover
-中途停留,stop off
 中途退学,dropout
 中途休息,bait
 中途夭折,die on the vine
@@ -59165,7 +58839,6 @@
 中卫,halfback
 中位数,median
 中尉,lieutenant,subaltern
-中尉,lieutenant
 中尉之职,lieutenancy
 中文,Chinese
 中午,midday,noon,nooning,noontime
@@ -59173,7 +58846,7 @@
 中线,central line,centre line,midline
 中线开球,kick off
 中心,centrality,centre,centricity,core,heart,hub,kernel
-中心,centrality,centricity,heart,中心的,centric,nuclear
+中心的,centric,nuclear
 中心地带,heartland
 中心点,center,centre
 中心球,centrosphere
@@ -59195,7 +58868,7 @@
 中央,central authorities,centrality,centre,middle,navel
 中央部分,midsection
 中央的,center,central,centre,centric,median,mid,middle
-中央的,center,centre,median,中央广场,nave
+中央广场,nave
 中央集权的,centralized
 中央集权化,centralization
 中央集权下的经济统制,statism
@@ -59250,7 +58923,7 @@
 忠于,be devoted to,be faithful to,be loyal to,stick by,string along with
 忠于信仰,keep faith
 忠贞,allegiance,fealty,loyalty
-忠贞,allegiance,忠贞的,duteous,loyal,steadfast
+忠贞的,duteous,loyal,steadfast
 终,death,end,eventually
 终场,end of a show
 终点,destination,terminal,termination,end,end point,goal,terminus
@@ -59284,7 +58957,7 @@
 终生的,lifetime
 终霜,lastest frost
 终于,at last,eventually,finally,in the end,lastly
-终于,at last,finally,终于的,eventual
+终于的,eventual
 终于发生,eventuate
 终于失败,fizzle out,turn out crabs
 终止,end,make an end of,stop,terminate
@@ -59341,7 +59014,7 @@
 肿起,bloat
 肿痛,gall
 肿胀,puff up,strut,swell
-肿胀,puff up,肿胀病人,bloat
+肿胀病人,bloat
 肿胀的,tumid
 种,grow,seed,species,strain
 种差,differentia
@@ -59379,7 +59052,7 @@
 冢,grave,tomb,tumulus
 踵,heel
 仲,intermediate,middle,second
-仲,intermediate,仲裁,arbitrament,arbitration,intercede,intercession,intermediation,mediation,referee,umpire
+仲裁,arbitrament,arbitration,intercede,intercession,intermediation,mediation,referee,umpire
 仲裁的,arbitral,intercessory,mediatorial,mediatory
 仲裁人,arbiter,arbitrator,mediator,moderator,referee,umpire
 仲裁者,intercessor,intermediary,intermediator,pacificator
@@ -59389,7 +59062,7 @@
 仲夏,midsummer
 仲夏的,midsummer
 众,crowd,many,numerous
-众,crowd,众多,throng
+众多,throng
 众多的,multitudinous,numerous
 众寡悬殊,a great disparity in numerical strength
 众口难调,it is difficult to cater for all tastes
@@ -59443,7 +59116,6 @@
 重地,important place
 重点,emphasis,focal point,keystone,stress
 重叠,lap,overlap,superpose,wrap
-重叠,lap,superpose
 重叠句,undersong
 重叠写在,overwrite
 重读,accent,accentuate,accentuation,reread,stress
@@ -59478,7 +59150,6 @@
 重击,bang,pound,smite,sock,wallop,whack
 重击声,thump
 重建,rebuild,reconstruct,redintegrate,reestablish,regenerate,reintegrate
-重建,rebuild,redintegrate,regenerate
 重建构造,restructure
 重讲,rehash
 重金属,heavy metal
@@ -59490,7 +59161,6 @@
 重捆,rebind
 重捆的,rebound
 重力,gravitation,gravity
-重力,gravitation
 重力的,gravitational
 重力计,gravimeter
 重利,great profit,heavy interest
@@ -59631,7 +59301,6 @@
 重新着色,recolor
 重新着手于,readdress oneself to
 重新组成,reconstitute,reform
-重新组成,reconstitute
 重新组合,reset
 重型,heavy
 重型的,heavy-duty
@@ -59642,7 +59311,6 @@
 重压,press,weigh
 重压于,weigh on
 重演,re-act,recur,repeat,replay
-重演,re-act,repeat
 重要,importance,emphasis,magnitude
 重要部分,substantial
 重要的,important,main,major,principal,essential,fundamental,serious,significant,vital
@@ -59658,7 +59326,6 @@
 重要中心,metropolis
 重译,retranslate
 重音,accent,stress
-重音,accent
 重音的,accentual
 重音符号,stress-mark
 重印,overprint,reimpression,reprint
@@ -59684,7 +59351,6 @@
 重装,reship,reshipment
 重装货物,reshipment
 重奏,an ensemble played by two or more instrumentalists,reprise
-重奏,an ensemble played by two or more instrumentalists
 重组,recombine,recompose,reform
 重罪,felony
 重罪的,felonious
@@ -59707,7 +59373,6 @@
 州议会的议场,statehouse
 舟,boat
 舟车,journey,vessel and vehicle
-舟车,journey
 舟骨,navicular,scaphoid
 舟子,boatman
 周,all,all over,circuit,circumferenc,cycle,thoughtful,week
@@ -59719,7 +59384,6 @@
 周到的,considerate,thoughtful,wary
 周到地,hand and foot
 周而复始,go round and round,move in cycles
-周而复始,go round and round
 周济,help out,relieve
 周界,perimeter
 周刊,weekly
@@ -59736,7 +59400,7 @@
 周年纪念,anniversary
 周皮,periderm
 周期,cycle,period,wheel
-周期,cycle,周期的,periodic,periodical
+周期的,periodic,periodical
 周期的,periodic
 周期数,periodicity
 周期性,periodicity
@@ -59757,7 +59421,7 @@
 周折,setbacks,twists and turns
 周折,setbacks
 周转,have enough to meet need,turn over,turnover
-周转,have enough to meet need,洲,continent
+洲,continent
 洲的,continental
 洲际的,intercontinental
 粥,congee,gruel,porridge
@@ -59767,7 +59431,6 @@
 轴衬,bushing
 轴承,bearing
 轴的,axial,axile
-轴的,axial
 轴后的,postaxial
 轴距,wheelbase
 轴上的,axile
@@ -59780,7 +59443,6 @@
 帚,broom
 帚柄,broomstick
 咒,incantation,malediction
-咒,incantation
 咒骂,curse,swear,abuse,cuss,drat,oath,revile
 咒骂的,damning
 咒骂的话,cussword
@@ -59805,10 +59467,9 @@
 皱边纸饰,frill
 皱痕,crease,crimple
 皱眉,frown,lour,mow
-皱眉,frown,皱眉表示,frown
+皱眉表示,frown
 皱眉肌,corrugator
 皱眉头,frown,scowl
-皱眉头,frown
 皱眉头的,beetle-browed
 皱起,purse,purse up
 皱起的,pursy
@@ -59823,7 +59484,6 @@
 骤,sudden,trot
 骤降,pelter
 骤然,abruptly,suddenly
-骤然,abruptly
 骤然的中断,saltus
 骤燃,flare-up
 骤雨,brash,pour
@@ -59833,7 +59493,6 @@
 朱红,vermeil,vermilion
 朱红的,vermilion
 朱红色,vermeil,vermilion
-朱红色的,vermeil
 朱丽叶,Juliet
 朱鹭,ibis
 朱漆,red paint
@@ -59843,7 +59502,6 @@
 侏儒,dwarf,gnome,midget,pygmy,Jack Sprat,Lilliputian
 侏儒的,gnomish,pygmean
 诛,kill,put to death
-诛,kill
 诛戮,kill,put to death
 诛杀暴君者,tyrannicide
 诛弑暴君,tyrannicide
@@ -59856,7 +59514,6 @@
 珠宝箱,cassette
 珠翠,pearls and jade
 珠玑,gem,pearl
-珠玑,gem
 珠联璧合,a perfect pair
 珠母般的,pearlescent
 珠母贝,nacre
@@ -59887,7 +59544,6 @@
 猪圈,hogpen,pig bed,sty
 猪群,swinery
 猪肉,pig,pork
-猪肉,pig
 猪肉饼,porkpie
 猪肉的,porky
 猪舍,piggery,pigpen,pigsty
@@ -59912,16 +59568,13 @@
 蛛网状的,arachnoid
 竹,bamboo
 竹板,bamboo clappers,ferula
-竹板,bamboo clappers
 竹节虫,stick insect
 竹茎,culm
 竹篮打水一场空,all in vain,draw water with a sieve
-竹篮打水一场空,all in vain
 竹片状的,spatulate
 竹笋,bamboo shoot
 竹子,bamboo
 烛,candle,illuminate,light up,watt
-烛,candle,light up
 烛光,candle power
 烛花,snuff
 烛火,candlelight
@@ -59999,7 +59652,6 @@
 主笔的,editorial
 主编,chief editor
 主菜,entree,main course
-主菜,entree
 主唱者,coryphaeus,protagonist
 主持,manage,mastermind,preside,run the show,take charge of
 主持测验的人,quizmaster
@@ -60028,10 +59680,8 @@
 主队,host team
 主帆,main course,mainsail
 主犯,prime culprit,principal
-主犯,prime culprit
 主峰,the highest peak in a mountain range
 主妇,housewife,housemistress,homemaker,housekeeper,matron,mistress
-主妇,housewife,homemaker,matron
 主妇们,matronage
 主妇们的,housewifely
 主干,main force,trunk
@@ -60047,11 +59697,10 @@
 主管,charge,director,officer
 主婚,preside over a wedding ceremony
 主机,lead plane,main engine,mainframe
-主机,lead plane,主计官,purser
+主计官,purser
 主祭,officiant
 主监督,provost
 主见,definite idea,one's own view
-主见,definite idea
 主将,chief commander,skipper
 主讲,give a lecture
 主角,leading role,protagonist
@@ -60154,7 +59803,6 @@
 煮蛋,coddle
 煮饭,cook
 煮沸,boil,seethe
-煮沸,boil
 煮锅,skillet
 煮器,boiler
 煮肉锅,fleshpot
@@ -60196,7 +59844,7 @@
 住院外科医生,house surgeon
 住院治疗,hospitalization
 住宅,domicile,house,residence
-住宅,domicile,住宅的,residential
+住宅的,residential
 住宅区,uptown
 住宅区的,uptown
 住帐蓬,tent
@@ -60233,14 +59881,12 @@
 助威,boost the morale of,cheer for
 助消化的,digestive,eupeptic
 助消化的,digestive
-助消化药,digestive
 助兴,add to the fun
 助学金,stipend
 助战,assist in fighting
 助纣为虐,help a tyrant to do evil
 注,annotate,infuse,pour,record,stakes
-注,annotate,pour,注册,enroll,register,registration,enrollment
-注册,enroll,registration
+注册,enroll,register,registration,enrollment
 注册的,registered
 注出,outpour
 注定,be doomed,destine,fate,foreordain,ordain,predestine
@@ -60258,25 +59904,20 @@
 注入水,water
 注入者,infuser
 注射,injection,shot
-注射,injection
 注射剂,injection
 注射器,injector,squirt,syringe
 注射者,injector
 注视,look attentively at,stare,fix,focus,gaze,watch
-注视,look attentively at,fix,gaze
 注视的,regardant
 注释,annotate,annotation,commentary,exegesis,gloss,notation,scholium
 注释者,glossographer,scholiast
 注水,affusion,water flooding
-注水,affusion
 注销,cancel,write off
 注销戳,cancellation
 注意,pay attention to,heed,keep one's eyes open,look to,notice,observe,see to
 注意到,be aware,observe,take in,take note of
-注意到,be aware,take in
 注意的,advertent,attendant,attentive,observing,watchful
 注意地,attentively,with one's eyes open
-注意地,attentively
 注意力,attention
 注意力不集中的,scatterbrained
 注意力不集中的人,scatterbrain
@@ -60303,7 +59944,6 @@
 驻,be stationed,halt,stay
 驻波,standing wave
 驻地,place where troops are stationed,station
-驻地,place where troops are stationed
 驻防,garrison
 驻军,garrison
 驻守,defend,garrison
@@ -60318,23 +59958,19 @@
 柱廊,colonnade,stoa
 柱廊的门廊,portico
 柱石,mainstay,pillar
-柱石,mainstay
 柱头,chapiter,necking
-柱头,chapiter
 柱状图,histogram
 柱子,pillar
 祝,express good wishes,wish
 祝词,congratulate
 祝祷,benison
 祝福,beatitude,benediction,benison,bless,blessing
-祝福,beatitude,benison,祝福的,beatific,benedictory
+祝福的,beatific,benedictory
 祝福者,well-wisher
 祝贺,celebrate,congratulate
-祝贺,celebrate
 祝贺的,congratulant,congratulatory,gratulatory
 祝贺的人,celebrator
 祝贺者,congratulant,congratulator
-祝贺者,congratulant
 祝捷,celebrate a victory
 祝酒,toast
 祝酒杯,grace cup
@@ -60361,7 +59997,6 @@
 著作权侵害,piracy
 蛀,eat by moth,moth
 蛀齿,decayed tooth,dental caries
-蛀齿,decayed tooth
 蛀虫,borer,moth
 蛀船虫,teredo
 蛀洞,wormhole
@@ -60419,7 +60054,6 @@
 抓点,concentrate on work at selected units
 抓斗,grab bucket
 抓耳挠腮,manner of anxiety or happiness,scratch one's head
-抓耳挠腮,manner of anxiety or happiness
 抓钩,grapnel
 抓痕,score,scratch
 抓紧,clutch,grasp,grip,gripe
@@ -60444,7 +60078,6 @@
 专案,case,special case
 专差,special mission
 专长,special skill,speciality
-专长,special skill
 专场,special performance
 专车,special
 专诚,for a particular cause,specially
@@ -60501,7 +60134,6 @@
 专题论文作者,monographer
 专挑轻活的人,coffee cooler
 专线,special railway line,special telephone line
-专线,special railway line
 专心,absorption,concentration,immersion,intension,attention
 专心的,concentrative,intent,single-minded,unfaltering,versant
 专心地,intently
@@ -60527,13 +60159,9 @@
 专员,commissioner,person specially assigned for a job
 专责,specific responsibility
 专职,full-time,specific duty
-专职,full-time
 专制,autocracy,despotism
-专制,autocracy
 专制的,arbitrary,autocratic,absolute,despotic
-专制的,arbitrary,absolute
 专制地,autocratically,despotically
-专制地,autocratically
 专制君主,despot
 专属的,exclusive,proper
 专注,be absorbed in,devote one's mind to
@@ -60572,7 +60200,7 @@
 转而提到,descend to
 转发,transmit
 转告,communicate,pass on,send word
-转告,communicate,转归,lapse to
+转归,lapse to
 转轨,shunt
 转过脸,turn aside,turn away
 转过脸,turn aside
@@ -60618,7 +60246,7 @@
 转瞬即逝,written in water
 转瞬间,in a flash,in a twinkle,transitorily
 转送,pass on,send on,transmit
-转送,pass on,转送者,transferrer,transmitter
+转送者,transferrer,transmitter
 转速,rotate speed
 转速达,turn up
 转速计,tachometer
@@ -60629,7 +60257,7 @@
 转危为安,take a turn to be out of danger,turn the corner
 转危为安,take a turn to be out of danger
 转位,dislocation,displacement,locomotion
-转位,dislocation,转位期,metaphase
+转位期,metaphase
 转喜为忧,laugh on the wrong side of one's mouth
 转线路,crossover
 转向,change direction,get lost,sheer off,sway,swerve,swing,trend,turn
@@ -60638,7 +60266,6 @@
 转学,transfer,transfer to another school
 转学到,transfer to
 转眼,in an instant,in no time
-转眼,in an instant
 转眼间,before you can say Jack Robinson
 转业,be transferred to civilian work
 转页部分,runover
@@ -60666,7 +60293,7 @@
 啭声,trill
 赚,gain,make a profit
 赚大钱,earn good money,line one's pockets,profiteer
-赚大钱,earn good money,赚到,gain
+赚到,gain
 赚得,earn
 赚钱,be ahead,be in pocket,profit
 赚钱的,profitable
@@ -60688,9 +60315,9 @@
 庄家标志,buck
 庄稼,crops,emblement
 庄严,grandeur,majesty,royalty,sublime,venerability
-庄严,grandeur,royalty,庄严的,majestic,royal,godlike,sacred,solemn,stately,venerable
-庄严的,majestic,godlike,solemn,庄严地,divinely,imperially,royally
-庄严地,divinely,庄严化,solemnization
+庄严的,majestic,royal,godlike,sacred,solemn,stately,venerable
+庄严地,divinely,imperially,royally
+庄严化,solemnization
 庄园,manor
 庄园的,manorial
 庄重,sobriety
@@ -60703,7 +60330,7 @@
 桩材,piling
 装,act,dress up,install,load,pretend
 装扮,attire,disguise,dress up
-装扮,attire,装扮的,impersonative
+装扮的,impersonative
 装备,equip,accouter,arm,fit out,kit,provide,rig,tackle
 装备完整的,full-rigged
 装裱,mount,mount a picture
@@ -60731,7 +60358,6 @@
 装订,bind,bind up,stitch
 装订的,bound
 装订商,bookbinder,bookbindery
-装订商,bookbinder
 装订所,bindery
 装疯卖傻,feign madness,play the fool
 装疯卖傻,feign madness
@@ -60739,15 +60365,15 @@
 装规矩的,prudish
 装糊涂,dissimulate,dissimulation,feign ignorance,pretend not to know
 装潢,decorate,dress,mount
-装潢,decorate,装货,freight,lade,load,loading,stowage
-装货,freight,load,装货单,shipping order
+装货,freight,lade,load,loading,stowage
+装货单,shipping order
 装货口,porthole
 装货者,shipper
 装甲,armor
 装甲板,armor plate,armour-plate,cuirass
 装甲车,panzer
 装甲的,armoured,belted,armour-clad,armour-plated,ironclad,plated,steel-clad
-装甲的,armoured,armour-clad,ironclad,装假,feign,pretend,sham
+装假,feign,pretend,sham
 装尖铁,calk
 装尖头,nib
 装铰链,hinge
@@ -60778,7 +60404,6 @@
 装腔骗人,play a part
 装腔作势,mince,put on air,strike a pose,attitudinize,strike an attitude
 装腔作势的,mincing,self-dramatizing
-装腔作势的,mincing
 装腔作势说话,mouth
 装腔作势者,poser
 装鞘,scabbard
@@ -60830,7 +60455,6 @@
 装箱,box,box up,case,coffer
 装箱,box,case
 装卸,assemble and unassemble,load and unload
-装卸,assemble and unassemble
 装卸工人,stevedore
 装卸区,loading area
 装修,fitment
@@ -60871,7 +60495,7 @@
 壮族,Chuang
 状,account,certificate,condition,shape,state,written complaint
 状况,state,circumstance,condition,state of affairs,tone
-状况,state,condition,状况良好,in order
+状况良好,in order
 状态,state,condition,fettle,position,predicament,status
 状态不好,out of order
 状态的,postural
@@ -60897,11 +60521,10 @@
 撞碎,crash
 撞针,firing pin
 追,chase,go after,pursue,recall,seek,trace
-追,chase,pursue,seek
 追本溯源,get at the root of the matter,trace to its source
 追本溯源,get at the root of the matter
 追逼,extort a confession,press for repayment,pursue closely
-追逼,extort a confession,追补者,follower
+追补者,follower
 追捕,pursue and capture,chase,hound,hunt,pursue,run after
 追捕到,run down,track down
 追捕到,run down
@@ -60916,14 +60539,12 @@
 追赶者,pursuer
 追根究底,get to the bottom of sth.
 追过,forereach,have the heels of,outmarch,outstrip
-追过,forereach,outmarch
 追回,recover,replevy
 追悔,afterthought,regret,repent
 追击,pursue and attack
 追击兵,chasseur
 追击炮,Minnie
 追记,cite posthumously,write down afterwards
-追记,cite posthumously
 追加,add to
 追加的,supplemental,supplementary
 追剿,pursue and wipe out
@@ -60952,12 +60573,10 @@
 追忆说,reminisce
 追忆往事,reminisce
 追赃,make sb. disgorge the spoils,order the return of stolen money of goods
-追赃,make sb. disgorge the spoils
 追逐,chase,go after,pursue,quest,seek
-追逐,chase,pursue,追逐出,ejectment
+追逐出,ejectment
 追逐女人,philander
 追踪,follow the track of,pursue,stalk,trace,track,trail
-追踪,follow the track of,stalk,track
 追踪出,track out
 追踪者,tracer,tracker,trailer
 椎,vertebra
@@ -60965,7 +60584,7 @@
 椎骨的,vertebral
 椎体,centrum
 锥,awl,prick,wimble
-锥,awl,锥骨,pyramidal
+锥骨,pyramidal
 锥体虫,trypanosome
 锥体的,pyramidal
 锥线论,conics
@@ -60973,20 +60592,18 @@
 锥形的,cone-shaped,fastigiate
 锥形小干草堆,cock
 锥子,awl,bodkin,stabber
-锥子,awl,坠,drop,fall,weigh down
-坠,drop,坠毁,crash,fall and break,prang
+坠,drop,fall,weigh down
+坠毁,crash,fall and break,prang
 坠落,drop,go down,pitch
 坠落的,downfallen
 坠子,ear pendant,plummet,weight
 缀,compose,decorate,embellish,sew,stitch
 缀字课本,spelling book
 惴惴不安的,apprehensive,anxious and fearful
-惴惴不安的,apprehensive
 缒,let down with a rope
 赘,go to live in the household of one's in-laws on getting married,redundant,superfluous
-赘,go to live in the household of one's in-laws on getting married,赘生物,excrescence
+赘生物,excrescence
 赘述,give uncecessary details,say more than is needed
-赘述,give uncecessary details
 赘婿,son-in-law who lives in the home of his wife's parents
 赘言,verbosity
 赘疣,wart
@@ -61045,7 +60662,6 @@
 卓绝的,extreme,unsurpassed
 卓绝的,extreme
 卓识,judicious judgment,sagacity
-卓识,judicious judgment
 卓有成效,fruitful,highly effective
 卓越,brilliance,excellence,predominance,preeminence,primacy,salience,superexcellence,transcendence
 卓越的,outstanding,predominant,prominent,brilliant,remarkable,reputable,surpassing
@@ -61067,7 +60683,7 @@
 拙劣伎俩,clumsy tactics
 拙劣模仿,parody
 拙劣诗人,sonneteer,versemonger,versifier
-拙劣诗人,sonneteer,捉,capture,catch,clutch,grasp,hold
+捉,capture,catch,clutch,grasp,hold
 捉臭虫,bug
 捉刀,ghostwrite,write for someone else
 捉襟见肘,have too many problems to deal with
@@ -61077,12 +60693,10 @@
 捉拿,arrest,catch
 捉拿,arrest
 捉弄,embarrass,make fun of,make game of,tease
-捉弄,embarrass,make game of
 捉住,nab
 桌,desk,table
 桌,desk
 桌布,antependium,tablecloth
-桌布,antependium
 桌灯,desk lamp,desk light,table lamp,table light
 桌巾,tablecloth
 桌面,tabletop,top of a table
@@ -61090,7 +60704,7 @@
 灼,bright,burn,luminous,scorch
 灼见,penetrating view,profound view
 灼热,broil,calcination,scorcing heat
-灼热,broil,灼热的,glowing,scorching
+灼热的,glowing,scorching
 灼热地狱,Tophet
 灼热剂,thermit
 灼伤的,burnable
@@ -61098,7 +60712,7 @@
 茁长素,auxin
 茁壮成长,thrive
 茁壮的,healthy and strong,sleek,sturdy
-茁壮的,healthy and strong,浊,chaotic,confused,corrupted,deep and thick,muddy,turbid
+浊,chaotic,confused,corrupted,deep and thick,muddy,turbid
 浊世,chaotic times,the mortal world
 浊音,sonant
 浊音的,sonant,voiced
@@ -61114,7 +60728,8 @@
 啄食,peck
 啄物,picker
 啄者,picker
-着,a move in chess,apply,burn,device,send,touch,trick,usefeel,wear,着笔,begin to write or paint
+着,a move in chess,apply,burn,device,send,touch,trick,usefeel,wear
+着笔,begin to write or paint
 着弹点观察员,spotter
 着地,touchdown
 着褐色,embrown
@@ -61140,13 +60755,13 @@
 着魔的,demoniac
 着魔的人,demoniac
 着色,dye,put colour to,stain
-着色,dye,着色的,chromatic,painted,tinct
+着色的,chromatic,painted,tinct
 着色工人,stainer
 着色剂,colorant,stain
 着色石版图,chromotype
 着实,indeed,really,severely
-着实,indeed,着手,begin,embark,enter on,address oneself to,fall to doing,launch on,set about
-着手,begin,enter on,fall to doing,着手的,initiatory
+着手,begin,embark,enter on,address oneself to,fall to doing,launch on,set about
+着手的,initiatory
 着手干,go at
 着手根除,lay the axe to the root of
 着手破坏,set the axe to
@@ -61176,13 +60791,13 @@
 仔细考虑,deliberate,think over
 仔细搜查,fine-tooth-comb
 孜孜,diligent,hardworking,industrious
-孜孜,diligent,孜孜不倦,persevere
+孜孜不倦,persevere
 孜孜不倦的,assiduous,diligent,indefatigable,unwearied
 孜孜从事,plod
 兹,at present,now,this
-兹,at present,咨,consult,take counsel
+咨,consult,take counsel
 咨询,consult,refer,hold counsel with
-咨询,consult,咨询的,advisory,consultative,consulting
+咨询的,advisory,consultative,consulting
 姿,appearance,gesture,looks,posture
 姿,appearance,looks
 姿容,appearance,looks
@@ -61198,7 +60813,7 @@
 资,endowment,expenses,money,qualifications
 资,endowment,money
 资本,capital,principal,what is capitalized on
-资本,capital,资本的集中,capitalism
+资本的集中,capitalism
 资本化,capitalization
 资本家,capitalist
 资本家的,capitalistic
@@ -61210,7 +60825,6 @@
 资产,assets,capital,substance
 资产负债表,balance sheet
 资产阶级,bourgeois,the bourgeoisie
-资产阶级,bourgeois
 资方,those representing capital
 资格,capacity,character,competence,qualification,title
 资格的,qualificatory
@@ -61218,7 +60832,6 @@
 资金,bankroll,资力,solvency
 资历,qualifications and record of service
 资料,data,material
-资料,data
 资料处理,data processing
 资料解析,readout
 资料库,database
@@ -61228,7 +60841,7 @@
 资源,natural resources,资源丰富的,resourceful
 资质,aptitude,intelligence
 资助,aid financially,stake,subsidize
-资助,aid financially,资助基金,sustentation fund
+资助基金,sustentation fund
 资助者,Maecenas
 缁,black
 孳,propagate
@@ -61260,7 +60873,7 @@
 子程序,subprogram,subroutine
 子代,filial generation
 子弹,bullet,cartridge,powder and shot,shot,slug
-子弹,bullet,powder and shot,子弹带,cartridge belt
+子弹带,cartridge belt
 子弹盒,cartridge box
 子弹声,zing
 子弟,children,junior
@@ -61360,7 +60973,7 @@
 字首音省略,aphesis
 字锁,letter lock
 字体,font,style,style of calligraphy
-字体,font,字帖,copybook
+字帖,copybook
 字头语,acronym
 字尾音消失,apocope
 字形,font,grapheme,graphemic,vee
@@ -61395,7 +61008,6 @@
 自变量,independent variable
 自裁,commit suicide
 自惭形秽,have a sense of inferiority,look small
-自惭形秽,have a sense of inferiority
 自称,pretend,call oneself,claim to be,profess
 自称的,self-assumed,self-proclaimed,self-styled
 自称无所不知的,know-it-all
@@ -61427,7 +61039,6 @@
 自吊索上放下,unsling
 自东的,eastern
 自动,auto,automatism,of one's own accord,self-motion
-自动,auto,of one's own accord
 自动播种机,seeding plough
 自动操纵装置,gyropilot
 自动操作,automata,automation
@@ -61490,7 +61101,6 @@
 自费,at one's own expenses
 自费学生,commoner
 自封,isolate oneself,proclaim oneself
-自封,isolate oneself
 自封的,self-given
 自负,self-conceit,be responsible for one's own action,vanity
 自负的,overconfident,pretentious,vain
@@ -61505,7 +61115,6 @@
 自高自大的,arrogant,conceited,self-important
 自高自大地,cockily
 自告奋勇,offer to undertake,volunteer
-自告奋勇,offer to undertake
 自割,autotomy
 自给,self-support
 自给的,self-sufficient,self-supporting
@@ -61519,7 +61128,6 @@
 自顾不暇,be busy enough with one's own affairs
 自管自,cut one's own fodder
 自豪,be proud of,glory,glory in,take pride
-自豪,be proud of,glory in
 自豪的,proud
 自何处,wherefrom
 自花传粉,self-pollinate
@@ -61562,7 +61170,7 @@
 自掘坟墓,dig one's own grave
 自夸,preen oneself,boast,plume,self-praise,sing one's own praises,value oneself on
 自夸的,boastful,braggart,thrasonical
-自夸的,boastful,自夸的话,cockalorum
+自夸的话,cockalorum
 自夸的人,boaster
 自夸学者的人,pedant
 自来,from the beginning,in the first place
@@ -61589,7 +61197,6 @@
 自卖自夸,blow one's own trumpet,praise the goods one sells
 自满,self-complacence
 自满的,complacent,fatuous,self-content,self-satisfied
-自满的,complacent,self-content
 自满地,conceitedly
 自满自足的,self-content
 自名不凡,feel one's oats
@@ -61678,7 +61285,7 @@
 自食其果,eat one's own bitter fruit,reap as one has sown
 自食其力,earn one's own living
 自始至终,all the way,from beginning to end,from first to last,from start to finish,throughout
-自始至终,all the way,from first to last,自视,consider oneself
+自视,consider oneself
 自视过高,self-partiality
 自恃,self-reliance
 自恃的,self-reliant
@@ -61708,7 +61315,7 @@
 自慰,console oneself
 自刎,cut one's throat
 自问,ask oneself,examine oneself,reach a conclusion after weighing a matter
-自问,ask oneself,自我,ego,oneself,self,selfhood,subject
+自我,ego,oneself,self,selfhood,subject
 自我暗示,autosuggestion,self-suggestion
 自我包含的,self-contained
 自我暴露,self-betrayal
@@ -61752,7 +61359,7 @@
 自我责备,self-accusation
 自我中心,selfishness
 自我中心的,egocentric,egoistic,egoistical,self-centered,selfish
-自我中心的,egocentric,egoistical,自我中心地,selfishly
+自我中心地,selfishly
 自我中心癖,egotism
 自我中心主义者,egotist
 自我主义,egoism
@@ -61765,7 +61372,6 @@
 自相残杀,cannibalism,kill each other
 自相惊扰,alarm one's own group
 自相矛盾,contradict oneself,tergiversate
-自相矛盾,contradict oneself
 自相矛盾的,self-contradictory,self-contradictory
 自相矛盾的话,paradox
 自新,make a fresh start
@@ -61780,7 +61386,6 @@
 自行载入的,self-loading
 自修,study by oneself,study independently
 自修的,self-educated,self-taught
-自修的,self-educated
 自修室,study hall
 自许的,self-assumed
 自诩,crack oneself up,praise oneself
@@ -61791,10 +61396,9 @@
 自学者,autodidact
 自寻死路,bring about one's own destruction
 自言自语,soliloquize,talk to oneself,think aloud
-自言自语,soliloquize,自以为,flatter oneself,lay claim to,set up for
+自以为,flatter oneself,lay claim to,set up for
 自以为是,consider oneself always right
 自以为是的,opinionated,self-righteous,smug,stuffy
-自以为是的,opinionated,smug
 自缢,hang oneself
 自营,self-support
 自营的,self-supporting
@@ -61823,7 +61427,7 @@
 自由散漫,lax in discipline,slack
 自由市场,free market
 自由思想,free thought,freethinking,libertinism
-自由思想,free thought,自由思想的,freethinking
+自由思想的,freethinking
 自由思想家,freethinker,libertine
 自由讨论,colloquy
 自由投稿的,free-lance
@@ -61833,7 +61437,6 @@
 自由行动的,loose-jointed
 自由形态的,free-form
 自由意志,free will,voluntariness
-自由意志,free will
 自由意志的,freewill
 自由意志论,indeterminism
 自由意志主义支持者,libertarian
@@ -61865,8 +61468,8 @@
 自知之明,self-knowledge
 自制,abstain,contain,self-command,self-control,self-restrain
 自制的,self-governing,self-made,continent,home-made,self-regulating
-自制的,self-governing,continent,自治,self-government,autonomy,self-rule
-自治,self-government,自治的,autonomic,autonomous,self-governing
+自治,self-government,autonomy,self-rule
+自治的,autonomic,autonomous,self-governing
 自治的市镇,borough
 自治都市,burgh
 自治论者,autonomist
@@ -61905,11 +61508,11 @@
 自作自受,have only oneself to thank,lie in the bed one has made,stew in one's own grease,stew in one's own juice,suffer from one's own actions
 恣,do as one pleases
 恣肆,free and natural,unrestrained,wanton
-恣肆,free and natural,恣睢,reckless,unbridled
+恣睢,reckless,unbridled
 恣行无忌,behave recklessly
 恣意,arbitrariness
 恣意的,arbitrary,reckless,unbridled,unscrupulous,wilful
-恣意的,arbitrary,unbridled,恣意行乐,have one's fling
+恣意行乐,have one's fling
 渍,be soiled
 眦,canthus,corner of the eye
 宗,ancestor,clan,model,principal aim,purpose,sect
@@ -61988,7 +61591,6 @@
 总裁职位,presidency
 总成,assembly
 总的,general,total
-总的,general
 总的看法,overview
 总的来看,taking one with another
 总督,exarch,satrap,stadholder,viceroy
@@ -62003,7 +61605,7 @@
 总攻,general attack
 总共,altogether,in all,in number,in the aggregate,in the lump
 总共的,blanket,gross,outright
-总共的,blanket,总共赚得,gross
+总共赚得,gross
 总管,manager
 总归,after all,anyhow,eventually
 总和,summation,total
@@ -62013,7 +61615,6 @@
 总计为,tot
 总价,total prices
 总监,chief inspector,majordomo
-总监,chief inspector
 总结,sum up,summarize
 总经理,general manager
 总经销商,franchisee
@@ -62061,7 +61662,7 @@
 总状花序的,racemose
 总状排列的,racemose
 纵,endlong,even if,from north to south,indulge,jump up,release,vertical
-纵,endlong,from north to south,jump up,纵长,lengthwise
+纵长,lengthwise
 纵的,longitudinal
 纵断面,vertical section
 纵队,column
@@ -62090,12 +61691,11 @@
 纵情于,indulge
 纵然,even if,though
 纵容,connive,wink at
-纵容,connive
 纵容的,indulgent
 纵身,jump,leap
 纵深,depth
 纵使,even if,even though,notwithstanding
-纵使,even if,纵谈,talk freely
+纵谈,talk freely
 纵线,ordinate
 纵向,lengthways
 纵向的,fore-and-aft
@@ -62106,7 +61706,6 @@
 走笔,write rapidly
 走步,walk,walk with the ball
 走出,pile out,walk out
-走出,pile out
 走错路,go wrong
 走错一步,take a false step
 走道,footpath,pavement,walkway
@@ -62134,9 +61733,7 @@
 走后门,get in by the back door,secure advantages through influence
 走回家,walk home
 走火,fire accidentally,sparking
-走火,fire accidentally
 走极端,go to extremes,run to an extreme
-走极端,go to extremes
 走近,come near,come up,near,step up,walk up to
 走进,step in,walk into
 走开,get along with,go away,step along,trot away,turn away
@@ -62176,7 +61773,7 @@
 走样,go out of form
 走一步,make a move
 走运,luck up,be in the ascendant,have one's day,make a scoop,play big luck
-走运,luck up,have one's day,走运的,in good luck,well-off
+走运的,in good luck,well-off
 走直线,take the air line
 走卒,lackey
 走嘴,let slip an inadvertent remark
@@ -62246,7 +61843,7 @@
 足智多谋,resourceful
 足重,lumping weight
 族,a group of things with common features,clan,family,race,strain
-族,a group of things with common features,family,族长,clan leader
+族长,clan leader
 族长的,patriarchal
 族仇,blood feud
 族的,Goidelic,Lombardic
@@ -62278,7 +61875,6 @@
 阻击叫牌,preempt
 阻抗,impedance
 阻拦,block the way,discourage sb. from,obstruct,stop
-阻拦,block the way,obstruct
 阻力,obstruction,resistance
 阻力指数,drag index
 阻力最小的方向,a line of least resistance
@@ -62297,7 +61893,7 @@
 组,brigade,group,section,series,troop,suit,team
 组胺,histamine
 组成,compose,consist,constitute,form,make up
-组成,compose,constitute,组成的,component,compositive
+组成的,component,compositive
 组成公司,incorporate
 组成一对,partner
 组成者,framer
@@ -62315,7 +61911,7 @@
 组曲,cento
 组态,configuration
 组织,buildup,organize,composition,constitution,framework,organization,synthesis,texture,tissue
-组织,buildup,composition,framework,synthesis,组织的,constituent,constitutional,organic,organizational,systemic
+组织的,constituent,constitutional,organic,organizational,systemic
 组织的破坏,disorganization
 组织工会,self-organization
 组织管理严密的,top-down
@@ -62330,7 +61926,6 @@
 组织者,constitutor,organiger,organizer,systematizer
 祖,ancestor,founder,grandfather,originator
 祖辈,ancestors,forefathers
-祖辈,ancestors
 祖传,handed down from one's ancestors
 祖传的,ancestral,patrimonial
 祖传的财物,patrimony
@@ -62338,9 +61933,7 @@
 祖父或祖母,grandparent
 祖父母,grandparent
 祖国,fatherland,homeland,mother country,motherland
-祖国,fatherland,mother country
 祖籍,ancestral home,original family home
-祖籍,ancestral home
 祖母,grandmother
 祖上,ancestor,forefather
 祖师,the founder of a school of learning
@@ -62355,8 +61948,7 @@
 钻,bore,dig into,drill,get into,jewel
 钻出,unthread
 钻进,chisel in,infix,plunge
-钻进,chisel in,钻井,artesian well,make hole
-钻井,artesian well
+钻井,artesian well,make hole
 钻空子,exploit an advantage
 钻孔,bore,broach,drill
 钻孔机,drill,punch,trepan
@@ -62370,7 +61962,7 @@
 钻通,drill through
 钻头,broach
 钻研,burrow,dig into,dive into,pore,study intensively
-钻研,burrow,dive into,钻营,secure personal gain
+钻营,secure personal gain
 钻子,drill
 攥,grasp,hold
 嘴,mouth,nib
@@ -62428,7 +62020,7 @@
 最低音弦乐器,contrabass
 最底点,nadir
 最底下的,lowermost,lowest,nethermost
-最底下的,lowermost,最东部的,easternmost
+最东部的,easternmost
 最短路线,shortcut
 最多,at best,at most,maximum,most
 最多的,most
@@ -62524,7 +62116,7 @@
 最上层,stratosphere
 最上的,superlative,upmost,uppermost
 最上等的,first-rate,gilt-edged,top-hole
-最上等的,first-rate,最上面的,uppermost
+最上面的,uppermost
 最少,least
 最少的,least
 最深处的,innermost
@@ -62568,7 +62160,6 @@
 最终失败,prove an abortion
 最重要,above all
 最重要的,foremost,lead,paramount,top-drawer
-最重要的,foremost,paramount
 最重要的问题,sixty-four dollar question
 最主要者,primary
 最左边的,leftmost
@@ -62589,12 +62180,10 @@
 罪孽深重的,sinful
 罪孽重大的,piacular
 罪人,a man of sin,malefactor,sinner,transgressor
-罪人,a man of sin,sinner
 罪深的,unrighteous
 罪行,crime,guilt,malefaction,maleficence,misdeed,offence
 罪责,responsibility for an offence
 罪证,evidence of a crime,proof of one's guilt
-罪证,evidence of a crime
 罪状,charges in an indictment,facts about a crime
 醉,drunk,steeped in liquor,tipsy,inebriation,inebriety
 醉的,drunk,steeped in liquor,tipsy,besotted
@@ -62602,7 +62191,6 @@
 醉鬼,drunkard,inebriate,sot,stiff
 醉汉,drunkard,sot
 醉酒的,stoned,zonked
-醉酒的,stoned
 醉人,intoxicate
 醉生梦死,lead a befuddled life
 醉态,drunkenness
@@ -62617,12 +62205,10 @@
 尊,honour,respect,senior
 尊长,elders
 尊称,address sb. respectfully,honorific title
-尊称,address sb. respectfully
 尊崇,homage,revere,venerate,worship
 尊贵的,exalted,honourable,respected,valued,worshipful
 尊敬,esteem,homage,honour,respect,reverence,venerability,veneration,worship
 尊敬的,honorific,reverent
-尊敬的,honorific
 尊敬的人,respecter
 尊敬者,venerator
 尊为神,apotheosis
@@ -62639,12 +62225,11 @@
 遵守比赛规则,play the game
 遵守规矩,walk the chalks
 遵守规则,toe the mark,toe the scratch
-遵守规则,toe the mark
 遵守者,observer
 遵行,act on,follow
 遵循,abide by,follow
 遵照,comply with,conform to,obey
-遵照,comply with,撙,save
+撙,save
 撙节,economize
 昨,yesterday
 昨天,yesterday
@@ -62665,13 +62250,12 @@
 左卷的,sinistrorse
 左面,left
 左派,left,left-winger,leftist
-左派,left,左派的,left,left-wing,leftist
-左派的,left,左撇的,left-handed
+左派的,left,left-wing,leftist
+左撇的,left-handed
 左撇子,left-hander,lefty
 左倾的,left
 左上角,top left corner
 左手,left hand,shield-hand
-左手,left hand
 左手边,left hand side
 左手的,left-hand
 左手投球,left-hander
@@ -62688,18 +62272,16 @@
 左翼的人,left-winger,leftist
 左翼分子,lefty
 左右,control,influence,master,anyhow,anyway,in any case,the left and right sides
-左右,control,master,anyway,左右的,right-and-left
+左右的,right-and-left
 左右方,right and left
 左右逢源,be able to achieve success one way or another,gain advantage from both sides
 左右开弓,do several jobs in the same time,use first one hand and then the other in quick succession
-左右开弓,do several jobs in the same time
 左右两手的,right-and-left
 左右手,second self,valuable assistant
 左右为难,be in a quandary,be in a dilemma,be in an awkward predicament
-左右为难,be in a quandary,左右相称,zygomorphism
+左右相称,zygomorphism
 左右摇摆的,wiggly
 左证,evidence,proof
-左证,evidence
 左支右绌,be unable to deal with a situation
 左转舵,port
 佐,assist
@@ -62712,7 +62294,6 @@
 作罢,give up,relinquish
 作保,be sb.'s guarantor,go security,sponsion,sponsor sb.
 作笔记,make a note,take notes
-作笔记,make a note
 作弊,cheat,practise fraud
 作弊的,cogged
 作弊者,cribber
@@ -62727,17 +62308,15 @@
 作东,stand treat,treat
 作对,oppose
 作恶,do evil,do wrong
-作恶,do evil
 作伐,matchmaking
 作法,course of action,practice
 作法自毙,get caught in one's own trap
 作坊,workshop
 作废,become invalid,blank out,cancellation
-作废,become invalid,作风,style,way
+作风,style,way
 作梗,hinder,make trouble,obstruct
 作古,die,pass away
 作怪,do mischief,make trouble
-作怪,do mischief
 作家,writer,author,composer,pen,scribe,storyteller,yarnsmith
 作价,evaluate
 作假,cheat,counterfeit,falsify,feign,gammon,play tricks,skulduggery
@@ -62751,18 +62330,14 @@
 作客,be a guest,sojourn
 作客,be a guest
 作乐,enjoy oneself,jollify,make merry,merrymaking,play music,revel
-作乐,enjoy oneself,make merry,play music
 作料,condiments,seasoning
-作料,condiments
 作乱,insurrection,stage an armed rebellion
-作乱,insurrection
 作美,cooperate,help
-作美,cooperate
 作难,feel embarrassed,make things difficult for sb.
 作孽,commit a sin,do evil
 作弄,joke,make a fool of,pick on,play a trick on,put it over on,tease
 作呕,be overcome by nausea,gag,heave the gorge,keck,nauseate,retch,sicken
-作呕,be overcome by nausea,heave the gorge,nauseate,作呕的,nauseating
+作呕的,nauseating
 作陪,company
 作品,a piece of work,opus,work,works,writing
 作评价,judge
@@ -62776,10 +62351,9 @@
 作手势,gesture
 作数,be valid,count
 作死,look for trouble,seek death
-作死,look for trouble
 作祟,cause trouble,haunt
 作态,affect,pose,strike an attitude
-作态,affect,作态的,hoity-toity
+作态的,hoity-toity
 作痛,pain
 作头发,hairdo
 作图,construct
@@ -62789,7 +62363,7 @@
 作威作福,domineer,act as a tyrant,lord
 作威作福的,roisterous
 作为,action,as,by way of,conduct,deed,look on as,qua,regard as,take for
-作为,action,by way of,deed,qua,作为报答,in requital for,in return,in reward for
+作为报答,in requital for,in return,in reward for
 作为报复,in requital for
 作为辩解,in excuse of
 作为猜测,as a shot
@@ -62837,7 +62411,7 @@
 作者,author,penster,scribe,writer
 作者不详的,anon.,anonymous,unfathered
 作证,give evidence,attest,bear witness,depose,tell,testify,witness
-作证,give evidence,bear witness,tell,作证人,witness
+作证人,witness
 作指导,coach
 作主,decide,support
 作主,decide
@@ -62870,11 +62444,11 @@
 坐具,a thing to sit on,seat
 坐困,be confined,be walled in
 坐牢,be imprisoned,imprisonment,wear the stripes
-坐牢,be imprisoned,坐冷板凳,be on the bench
+坐冷板凳,be on the bench
 坐力,recoil
 坐立不安,feel restless,fidget,have ants in one's pants
 坐落,be located,be situated,sit,stand,be seated
-坐落,be located,sit,坐起,sit up
+坐起,sit up
 坐山观虎斗,watch in safety while others fight
 坐失良机,let slip a golden opportunity,miss the boat
 坐视,sit by and watch
@@ -62889,7 +62463,6 @@
 坐下不动的,stay-in
 坐享其成,reap where one has not sown
 坐以待毙,await one's doom,sit still waiting for death
-坐以待毙,await one's doom
 坐以待旦,sit up and wait for daybreak
 坐浴,hip bath
 坐月子,confinement,confinement in childbirth
@@ -62903,7 +62476,7 @@
 座上客,honoured guest
 座谈,have an informal discussion
 座谈会,forum,rap session,symposium
-座谈会,forum,座谈小组,panel
+座谈小组,panel
 座套,seating
 座头鲸,humpback
 座位,pew,place,seat
@@ -62924,18 +62497,15 @@
 做工抵偿,work out
 做怪脸,mow
 做官,be an official,secure an official position
-做官,be an official
 做广告,advertise
 做鬼,play tricks
 做鬼脸,make a face,make a mouth,mop,pull a face
-做鬼脸,make a face,mop
 做好准备,ready-made,ready-to-wear,keep one's powder dry
-做好准备,ready-made,做坏事,misdo,perpetration,serve the devil
+做坏事,misdo,perpetration,serve the devil
 做坏事的,maleficent
 做荒唐事,sink into absurdity
 做伙伴,partner with
 做妓女,go on the streets,walk the streets
-做妓女,go on the streets
 做绝,leave no room for manoeuvre
 做客,be a guest
 做苦工,drudge at,grub on

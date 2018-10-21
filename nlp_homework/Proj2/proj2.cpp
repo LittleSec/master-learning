@@ -41,8 +41,10 @@ class Dict{
         Dict(string& filename);
         bool isInDict(string& s);
         void setDict(string& filename);
-        map<string, vector<string> > dict;
+        void showDict(int num=10);
         ~Dict();
+        // should be private
+        map<string, vector<string> > dict;
     private:
         long dict_size;
         // vector<string> dict;
@@ -79,6 +81,27 @@ void Dict::setDict(string& filename){
         dict.insert(make_pair(cn, en));
     }
     dict_file.close();
+}
+
+void Dict::showDict(int num){
+    if(dict.empty()){
+        cout << "dict is empty!" << endl;
+    }
+    else if(num > dict.size() || num <= 0){
+        cout << "error param!" << endl;
+    }
+    else{
+        int i;
+        map<string, vector<string> >::iterator cn_iter = dict.begin();        
+        for(i = 0; i < num; i++, cn_iter++){
+            cout << cn_iter->first << " : ";
+            vector<string>::iterator en_iter = cn_iter->second.begin();
+            for(; en_iter != cn_iter->second.end()-1; en_iter++){
+                cout << *en_iter << ",";
+            }
+            cout << *en_iter << endl;
+        }
+    }
 }
 
 Dict::~Dict(){
@@ -120,7 +143,7 @@ void FMM(string seq, Dict d, vector<string>& splic_word_res){
     }
 }
 
-int main(){
+int main(int argc, char const *argv[]){
     string sequence;
     string filename = "ce.txt";
     Dict d(filename);
@@ -131,6 +154,7 @@ int main(){
     //     cout << iter->first << endl;
     // } 
     cout << d.dict.size() << endl;
+    d.showDict(10);
     /*
     RMM(sequence, d, rm);
     FMM(sequence, d, fm);
