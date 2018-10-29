@@ -20,19 +20,18 @@ string split_char = ",";
  * c: split char(usually ',')
  * ref:https://www.cnblogs.com/lyf-sunicey/p/8489472.html
  */
-void SplitString(const string& s, vector<string>& res, const string& c)
-{
+void SplitString(const string& s, vector<string>& res, const string& c){
     string::size_type pos1, pos2;
     pos2 = s.find(c);
     pos1 = 0;
-    while(pos2 != string::npos)
-    {
+    while(pos2 != string::npos){
         res.push_back(s.substr(pos1, pos2-pos1));
         pos1 = pos2 + c.size();
         pos2 = s.find(c, pos1);
     }
-    if(pos1 != s.length())
+    if(pos1 != s.length()){
         res.push_back(s.substr(pos1));
+    }
 }
 
 class Dict{
