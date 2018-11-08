@@ -67,7 +67,6 @@ bool Dict::isInDict(string& s){
 void Dict::setDict(string& filename){
     ifstream dict_file;
     dict_file.open(filename, ios::in);
-    dict_file.imbue(locale("zh_CN.UTF-8"));
     string s;
     string cn;
     vector<string> en_vector;
