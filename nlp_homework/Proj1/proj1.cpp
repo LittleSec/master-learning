@@ -74,7 +74,7 @@ void Dict::setDict(string& filename){
         en = s.substr(0, en_expl_pos);
         SplitString(s.substr(en_expl_pos+1), explanation_vec, split_char);
         for(vector<string>::iterator it = explanation_vec.begin(); it != explanation_vec.end(); it++){
-            if(it->find(".") != string::npos){
+            if(it->find(".") == it->length()-1){ // 词性都是以.结尾
                 part_of_speech_vec.push_back(*it);
             }
         }
@@ -116,7 +116,7 @@ bool Dict::showWord(const string& s, bool err_handler){
         cout << "Part of speech: ";
         vector<string>::iterator it = dict[s].begin();
         for(; it != dict[s].end()-1; it++){
-            cout << *it << ",";
+            cout << *it << ", ";
         }
         cout << *it << endl;
         return true;
@@ -132,26 +132,32 @@ bool verbJudgeAndReduction(Dict& d, const string& word){
     string tmp;
     bool flag = d.showWord(word, false);
     if(!flag && word.substr(word.length()-1) == "s"){
+        // *s -> * (SINGULAR3)
         tmp = word.substr(0, word.length()-1);
         flag = d.showWord(tmp, false);
     }
     if(!flag && word.substr(word.length()-2) == "es"){
+        // *es -> * (SINGULAR3)
         tmp = word.substr(0, word.length()-2);
         flag = d.showWord(tmp, false);
     }
     if(!flag && word.substr(word.length()-3) == "ies"){
+        // *ies -> *y (SINGULAR3)
         tmp = word.substr(0, word.length()-3) + "y";
         flag = d.showWord(tmp, false);
     }
     if(!flag && word.substr(word.length()-3) == "ing"){
+        // *ing -> * (VING)
         tmp = word.substr(0, word.length()-3);
         flag = d.showWord(tmp, false);
     }
     if(!flag && word.substr(word.length()-3) == "ing"){
+        // *ing -> *e (VING)
         tmp = word.substr(0, word.length()-3) + "e";
         flag = d.showWord(tmp, false);
     }
     if(!flag && word.substr(word.length()-4) == "ying"){
+        // *ying -> *ie (VING)
         tmp = word.substr(0, word.length()-4) + "ie";
         flag = d.showWord(tmp, false);
     }
@@ -161,14 +167,17 @@ bool verbJudgeAndReduction(Dict& d, const string& word){
         flag = d.showWord(tmp, false);
     }
     if(!flag && word.substr(word.length()-2) == "ed"){
+        // *ed -> * (PAST)(VEN)
         tmp = word.substr(0, word.length()-2);
         flag = d.showWord(tmp, false);
     }
     if(!flag && word.substr(word.length()-2) == "ed"){
+        // *ed -> *e (PAST)(VEN)
         tmp = word.substr(0, word.length()-1);
         flag = d.showWord(tmp, false);
     }
     if(!flag && word.substr(word.length()-3) == "ied"){
+        // *ied -> *y (PAST)(VEN)
         tmp = word.substr(0, word.length()-3) + "y";
         flag = d.showWord(tmp, false);
     }
@@ -187,7 +196,7 @@ int main(int argc, char const *argv[])
     Dict d(filename);
     // d.showDict();
     // verbJudgeAndReduction(d, "finishied");
-    while(cin >> verb){
+    while(cin >> verb){ // ctrl+d in unix-like system, ctrl+c in ms-dos
         if(!verbJudgeAndReduction(d, verb)){
             cout << "calling module of non-login dictionary... " << endl;
         };

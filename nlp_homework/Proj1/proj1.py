@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class myDict:
     __splitChar = ' '
     __fileName = "dic_ec.txt"
@@ -11,11 +12,8 @@ class myDict:
     def __loadDictionary(self):
         with open(self.__fileName, encoding='utf-8') as f:
             for line in f.readlines():
-                partOfSpeech = []
                 lineBlocks = str(line).strip().split(self.__splitChar)
-                for l in lineBlocks[1:]:
-                    if '.' in l:
-                        partOfSpeech.append(l)
+                partOfSpeech = [l for l in lineBlocks[1:] if l[-1:] == '.'] # can't '.' in l, because '.' may in Chinese
                 self.__dictEnCh[lineBlocks[0]] = partOfSpeech
 
     def showWord(self, word):
@@ -38,29 +36,29 @@ class myDict:
 
 def verbJudgeAndReduction(d, word):
     flag = d.showWord(word)
-    if((not flag) and word[-1:]=='s'):
+    if((not flag) and word[-1:]=='s'): # *s -> * (SINGULAR3)
         flag = d.showWord(word[:-1])
-    if((not flag) and word[-2:]=='es'): 
+    if((not flag) and word[-2:]=='es'): # *es -> * (SINGULAR3)
     # can't use elif, because the flag may be changed in Previous code block,
     # and previous condition finished Calculating the flag so elif don't calculate again.
         flag = d.showWord(word[:-2])
-    if((not flag) and word[-3:]=='ies'):
+    if((not flag) and word[-3:]=='ies'): # *ies -> *y (SINGULAR3)
         flag = d.showWord(word[:-3]+'y')
-    if((not flag) and word[-3:]=='ing'):
+    if((not flag) and word[-3:]=='ing'): # *ing -> * (VING)
         flag = d.showWord(word[:-3])
-    if((not flag) and word[-3:]=='ing'):
+    if((not flag) and word[-3:]=='ing'): # *ing -> *e (VING)
         flag = d.showWord(word[:-3]+'e')
-    if((not flag) and word[-4:]=='ying'):
+    if((not flag) and word[-4:]=='ying'): # *ying -> *ie (VING)
         flag = d.showWord(word[:-4]+'ie')
-    if((not flag) and word[-3:]=='ing'):
+    if((not flag) and word[-3:]=='ing'): # *??ing -> *? (VING)
         flag = d.showWord(word[:-4])
-    if((not flag) and word[-2:]=='ed'):
+    if((not flag) and word[-2:]=='ed'): # *ed -> * (PAST)(VEN)
         flag = d.showWord(word[:-2])
-    if((not flag) and word[-2:]=='ed'):
+    if((not flag) and word[-2:]=='ed'): # *ed -> *e (PAST)(VEN)
         flag = d.showWord(word[:-1])
-    if((not flag) and word[-3:]=='ied'):
+    if((not flag) and word[-3:]=='ied'): # *ied -> *y (PAST)(VEN)
         flag = d.showWord(word[:-3]+'y')
-    if((not flag) and word[-2:]=='ed'):
+    if((not flag) and word[-2:]=='ed'): # *??ed -> *? (PAST)(VEN)
         flag = d.showWord(word[:-3])
     return flag
 
