@@ -69,6 +69,13 @@ def RMM(s, d):
 if __name__ == '__main__':
     d = myDict()
     # d.showDict()
-    s = '细胞分裂组织'
-    print(FMM(s, d))
-    print(RMM(s, d))
+    # s = '细胞分裂组织'
+    s = input("请输出中文句子: ")
+    fmm = FMM(s, d)
+    rmm = RMM(s, d)
+    if fmm == rmm:
+        print("无歧义: " + '/'.join(fmm))
+    else:
+        print("有歧义: ")
+        print("    FMM: " + '/'.join(fmm))
+        print("    RMM: " + '/'.join(rmm))                

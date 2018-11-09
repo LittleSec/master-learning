@@ -128,9 +128,27 @@ Dict::~Dict(){
     dict.clear();
 }
 
+bool unregularReduction(Dict& d, const string& word){
+    bool flag = false;
+    if(word == "went"){
+        flag = d.showWord("go", false);
+    }
+    else if(word == "gone"){
+        flag = d.showWord("go", false);
+    }
+    else if(word == "sat"){
+        flag = d.showWord("sit", false);
+    }
+    // can add other rules
+    return flag;
+}
+
 bool verbJudgeAndReduction(Dict& d, const string& word){
     string tmp;
-    bool flag = d.showWord(word, false);
+    bool flag = unregularReduction(d, word);
+    if(!flag){
+        flag = d.showWord(word, false);
+    }
     if(!flag && word.substr(word.length()-1) == "s"){
         // *s -> * (SINGULAR3)
         tmp = word.substr(0, word.length()-1);

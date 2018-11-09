@@ -34,8 +34,21 @@ class myDict:
                 break
             i+=1
 
+def unregularReduction(d, word):
+    flag = False
+    if word == 'went': # went -> go (PAST)
+        flag = d.showWord("go")
+    elif word == "gone": # gone -> go (VEN)
+        flag = d.showWord("go")
+    elif word == "sat": # sat -> sit (PAST) (VEN)
+        flag = d.showWord("sit")
+    # can add other rules!
+    return flag
+
 def verbJudgeAndReduction(d, word):
-    flag = d.showWord(word)
+    flag = unregularReduction(d, word)
+    if not flag:
+        flag = d.showWord(word)
     if((not flag) and word[-1:]=='s'): # *s -> * (SINGULAR3)
         flag = d.showWord(word[:-1])
     if((not flag) and word[-2:]=='es'): # *es -> * (SINGULAR3)

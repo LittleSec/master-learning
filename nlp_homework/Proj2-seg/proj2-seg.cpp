@@ -13,6 +13,7 @@
 using namespace std;
 
 string split_char = ",";
+int cn_bytes = 3; // Chinese of utf-8 occupy 3 bytes
 /* 
  * params:
  * s: source string
@@ -112,19 +113,19 @@ void FMM(string& seq, Dict& d, vector<string>& splic_word_res){
     int i = 0;
     string tmp;
     while(i < seq.length()){ 
-        // 不能j = seq.length()/3，因为substr()不通用！
-        for(int j = seq.length(); j > i; j-=3){
+        // 不能j = seq.length()/cn_bytes，因为substr()不通用！
+        for(int j = seq.length(); j > i; j-=cn_bytes){
             tmp = seq.substr(i, j-i); // substr(start, length)
             // cout << i << " " <<  j << " " << tmp << endl;  
-            if(tmp.length() == 3){
+            if(tmp.length() == cn_bytes){
                 splic_word_res.push_back(tmp);
             }
             else if(d.isInDict(tmp)){
                 splic_word_res.push_back(tmp);
-                i = i + (tmp.length() - 3);
+                i = i + (tmp.length() - cn_bytes);
             }
         }
-        i+=3;
+        i+=cn_bytes;
     }
 }
 
@@ -132,44 +133,54 @@ void RMM(string& seq, Dict& d, vector<string>& splic_word_res){
     int i = seq.length();
     string tmp;
     while(i > 0){
-        for(int j = 0; j < seq.length(); j+=3){
+        for(int j = 0; j < seq.length(); j+=cn_bytes){
             if(i <= j){
                 break;
             }
             tmp = seq.substr(j, i-j);
-            if(tmp.length() == 3){
+            if(tmp.length() == cn_bytes){
                 splic_word_res.push_back(tmp);
             }
             else if(d.isInDict(tmp)){
                 splic_word_res.push_back(tmp);
-                i = i - (tmp.length()-3);
+                i = i - (tmp.length()-cn_bytes);
             }
         }
-        i-=3;
+        i-=cn_bytes;
     }
     reverse(splic_word_res.begin(), splic_word_res.end());
 }
 
+void printSegVector(vector<string>& split_seg){
+    for(vector<string>::iterator it = split_seg.begin(); it != split_seg.end(); it++){
+        cout << *it << '/';
+    }// 细胞分裂/组织
+    cout << endl;
+}
+
 int main(int argc, char const *argv[]){
-    string sequence = "细胞分裂组织";
     string filename = "ce.txt";
     Dict d(filename);
+    string sequence = "细胞分裂组织";
+    // cout << "请输入中文句子: ";
+    // cin >> sequence;
     vector<string> fm;
     vector<string> rm;
-    // cin >> sequence;
     // cout << d.dict.size() << endl;
     // d.showDict(10);
     FMM(sequence, d, fm);
-    for(vector<string>::iterator it = fm.begin(); it != fm.end(); it++){
-        cout << *it << '/';
-    }
-    cout << endl;
-
     RMM(sequence, d, rm);
-    for(vector<string>::iterator it = rm.begin(); it != rm.end(); it++){
-        cout << *it << '/';
-    }
-    cout << endl;
 
+    if(fm == rm){
+        cout << "无歧义: " ;
+        printSegVector(fm);
+    }
+    else{
+        cout << "有歧义: " << endl;
+        cout << "    FMM: ";
+        printSegVector(fm);
+        cout << "    RMM: ";
+        printSegVector(rm);
+    }
     return 0;
 }
