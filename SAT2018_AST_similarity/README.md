@@ -1,6 +1,11 @@
-# 软件分析测试
+# 软件分析测试 - 作业1 - 实验报告
 
 ## 抽象语法树
+
+| 姓名 | 何杰煊 |
+| ---- | ---- |
+| 学号 | MF1833026 |
+| 代码地址 | [GitHub](https://github.com/LittleSec/prospective-master-learning/tree/master/SAT2018_AST_similarity) | 
 
 ### 一、研究的问题
 完成某一种语言程序的抽象语法树（AST）构造，并能计算任意两棵抽象语法树的相似度。
@@ -138,6 +143,7 @@ python3源程序
         - `oceanvisualizationD3_1.py`来自于Branch: release-branch，与0相比修改了变量名以及把list类型换成了tuple
         - `oceanvisualizationD3_2.py`来自于Branch: master，多了一些全局变量
     + 理论上来说，这几个文件的相似度应该很高。
-    + 运行结果![ocean_sim](./img/ocean_sim.jpg)
+    + 运行结果如图所示。可以看出0和1的相似度较高，而1和2的相似度稍微低一些，毕竟是来自不同的分支，这符合预期。当时release-branch是删减了一些master调试代码，主要算法是没变的，因此相似度也不会太低。
+    ![ocean_sim](./img/ocean_sim.jpg)
 3. 通过上述描述可以知道对于上百行的python代码而言，运行时间就无法让人接受了。因此基于ast字符串相似度的比较方法其实并不是使用。
 4. 一个解决思路是根据节点的不同属性，计算每个节点的向量，通过向量的比较和运算来计算ast的相似度。这在一开始提到的论文引用中有介绍。这也是下一步可以做的工作。
