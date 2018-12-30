@@ -149,6 +149,10 @@ bool verbJudgeAndReduction(Dict& d, const string& word){
     if(!flag){
         flag = d.showWord(word, false);
     }
+    // TODO:
+    // The order of the restore rules are 
+    // (SINGULAR3) --> (VING) --> (PAST)(VEN)
+    // maybe can merge some if-block code
     if(!flag && word.substr(word.length()-1) == "s"){
         // *s -> * (SINGULAR3)
         tmp = word.substr(0, word.length()-1);
