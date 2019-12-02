@@ -41,3 +41,12 @@
     BOOTREC /FIXBOOT
     BOOTREC /REBUILDBCD
     ```
+
+
+# 投影屏幕，ppt演示者模式
+1. 快捷键：`win` + `p`
+
+
+# VirtualBox UUID already exists
+1. 进入virtualbox的安装路径
+2. 执行vboxmanage生成新的 UUID: `vboxmanage.exe internalcommands sethduuid path/to/file.vdi`

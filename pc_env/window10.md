@@ -12,3 +12,6 @@
 2. 选择对应packages并apply
 3. 添加路径```path\to\MinGW\bin```
 4. 修改properties.json文件中的includePath属性，加入MinGW路径
+
+# pdf
+1. [Gaaiho Reader](https://www.gaaiho.com/index.php/zh-cn/)

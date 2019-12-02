@@ -126,3 +126,18 @@
 1. 原因: 系统太新
 2. 网上下一个`compiler-gcc5.h`放要编译内核模块的内核代码的`include/linux/`下
 3. 或在要编译内核目录下: `cp include/linux/compiler-gcc4.h include/linux/compiler-gcc5.h`
+
+
+# 不要轻易彻底地改用户名！！
+1. 有些debug模式下编译的工具会附带上绝对路径信息，如果彻底更改用户名，那么绝对路径信息也会错误（例如llvm和clang）
+
+
+# 交换空间创建、挂载、卸载
+1. 创建8GB的空文件（在此名为/tmp/swap1）：`dd if=/dev/zero of=/tmp/swap1 bs=1M count=8192`
+2. 格式化为交换分区：`mkswap /tmp/swap1`
+3. 挂载交换分区：`sudo swapon /tmp/swap1`
+4. 卸载交换分区：`sudo swapoff /tmp/swap1`
+
+
+# `/usr/bin/ld: cannot find -lcurses`
+1. `sudo apt install ncurses-dev`

@@ -2,7 +2,7 @@
 ```shell
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install -y git vim cmake autoconf autogen automake
+sudo apt-get install -y git vim cmake autoconf autogen automake tmux
 ```
 
 # short cut
@@ -19,13 +19,21 @@ chsh -s `which zsh`
 sudo shutdown -h now
 ```
 
-# LLVM
+# LLVM and Clang
+## some tips(现在更建议这种方法~)
+1. 可以在[llvm.org](http://releases.llvm.org/download.html)只下载llvm，不必下载整个project。
+    + 但必须要装了llvm再clang，clang依赖于llvm，至少要让clang知道llvm的路径
+    + ***通常做法***：下载llvm和cfe(clang)，把cfe整个文件夹移动到llvm/tools目录下并改名为clang，可能还有lld
+2. 需要大内存和磁盘空间
+3. 内存不够可以由交换空间弥补，现在安装ubuntu一般不会单独设置一个合理大的交换空间（都是意思意思设置一个，也不怎么需要用），可能需要手动创建挂载一个较大的交换空间。
+    + 对于clang建议：swap分区大小+memory内存大小总和 > 16GB
+4. 需要多个llvm和clang版本共存时，可以在cmake时指定***release***减少占用空间。`-D CMAKE_BUILD_TYPE=Release`
 ```shell
 cd /path/to/save/sourcecode
 git clone https://github.com/llvm/llvm-project.git --depth=1
 cd llvm-project
 mkdir build-llvm && cd build-llvm
-cmake ../llvm
+cmake -DLLVM_ENABLE_PROJECTS=clang -G "Unix Makefiles" ../llvm
 make -j4 # will error about 84%
 make
 sudo make install
@@ -33,6 +41,7 @@ sudo make install
 
 # deb
 1. [vscode](https://code.visualstudio.com/)
+    + 已经可以在商店里下载了，也可以使用命令：`snap install code --classic`
 2. [搜狗输入法for Linux](https://pinyin.sogou.com/linux/)
     + Settings-->Language Support-->Keyboard input method system: choose **fcitx**
     + sudo shutdown -h now
