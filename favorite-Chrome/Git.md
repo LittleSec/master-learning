@@ -54,3 +54,9 @@
 1. 实际上是: `fatal: I don't handle protocol 'https'`
 2. 应该是windows的git bash复制粘贴机制有问题。
 3. 将clone与https之间的空格删掉，再用空格键补全即可。
+
+
+# git pull 后与本地修改冲突想解决冲突（vscode提供图形化界面）（冲突文件数量少）
+1. `git stash`, 暂存本地
+2. `git pull`
+3. `git stash pop`, 将自动合并，如果有冲突则会显示`CONFLICT (content): Merge conflict in xxx`

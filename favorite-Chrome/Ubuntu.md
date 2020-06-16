@@ -82,6 +82,10 @@
 1. 在使用menuconfig时，需要ncurses库的支持: `sudo apt-get install libncurses5-dev libncursesw5-dev`
 
 
+# fatal error: bits/c++config.h: No such file or directory
+1. `sudo apt-get install build-essential libc6-dev libc6-dev-i386 gcc-multilib g++-multilib`
+
+
 # ubuntu vi
 1. ubuntu预装的是vim tiny版本，我们常用的是vim full版本
     + `sudo apt-get remove vim-common`
@@ -141,3 +145,13 @@
 
 # `/usr/bin/ld: cannot find -lcurses`
 1. `sudo apt install ncurses-dev`
+
+# 双系统、boot分区
+>源链接（防止意外404）：http://tieba.baidu.com/p/5597848278
+1. 新手们不要单独分 boot 分区了，那就是一个巨坑
+2. 早期为什么会分单独的 boot 分区？
+    + 在2000年左右那会儿，硬盘容量快速发展（实际上也就10G、20G），但是一部分旧式的 BIOS 还不支持 LBA 模式，不支持引导距离 MBR 太远的硬盘分区，现在的小朋友们根本无法想象吧！
+    + 当时的 Linux 还是极少数 GNU 爱好者的玩具，一般都是作为第二系统和 Windows 共存，而且 Linux 在硬盘中的位置大都靠后。
+    + 有时候因为安装的根分区距离 MBR 太远无法引导，于是流行在`C:\`盘后面紧跟着建立一个100、200M 的`/boot`分区，以防无法启动。
+3. 在现在的硬件条件下，完全没有必要划分 boot 分区，那只会带来麻烦，容量如果太小，会使你无法安装、升级新内核。现在实际上只需要一个根分区挂在`/`，一个 HOME 分区挂在`/home`，连`/swap`分区都可有可无，因为完全可以用`swapfile`代替。
+    + 单独的HOME分区是为了保护你的个人文件安全，防止系统崩溃时丢失文件。

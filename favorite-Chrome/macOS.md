@@ -64,3 +64,27 @@
 
 # 禁止Mac Safari下载zip文件后自动解压缩
 1. Safari > 偏好设置 > 通用 > 下载后打开“安全的”文件（取消勾选）
+
+# 下载bilibili/YouTube等
+1. `pip3 install you-get`
+    + `you-get http://www.bilibili.com/video/av_number/`
+2. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+>[怎样在电脑上下载哔哩哔哩的视频？ - 宫泽清一的回答 - 知乎](https://www.zhihu.com/question/41367609/answer/168592820)
+
+
+# 源码编译开源软件时遇到普通的头文件找不到的问题
+1. `export CFLAGS="-isysroot `xcrun --show-sdk-path`"`
+
+
+# compile python
+1. about openssl: 
+   ```bash
+   brew install openssl
+   ../configure --with-openssl=/usr/local/opt/openssl
+   ```
+2. fatal error: 'X11/Xlib.h' file not found: 
+   ```bash
+   brew install tcl-tk
+   # for Catalina
+   ln -s /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Tk.framework/Versions/8.5/Headers/X11/ /usr/local/include/X11
+   ```

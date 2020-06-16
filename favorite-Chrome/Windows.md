@@ -50,3 +50,15 @@
 # VirtualBox UUID already exists
 1. 进入virtualbox的安装路径
 2. 执行vboxmanage生成新的 UUID: `vboxmanage.exe internalcommands sethduuid path/to/file.vdi`
+
+
+# OpenSSH服务端
+1. 要求系统版本：Windows 10 1809或者更新的系统
+    + 或powershell(**不是cmd**): `(Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion").ReleaseId`
+2. Windows设置->应用->应用和功能->可选功能->添加功能
+3. 安装OpenSSH客户端，OpenSSH服务器
+4. 查看服务器状态: powershell(管理员权限): `Get-Service *|where Name -Like '*ssh*'`
+5. 启动OpenSSH服务器: 
+    + powershell(管理员权限): `Start-Service sshd`
+    + cmd(管理员权限): `net start sshd`
+6. 自启动服务: cmd(管理员权限): `sc config sshd start=auto`

@@ -5,7 +5,8 @@
 ```shell
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install -y g++ git vim cmake autoconf autogen automake tmux ninja-build htop
+sudo apt-get install -y gcc g++ build-essential libc6-dev libc6-dev-i386 gcc-multilib g++-multilib
+sudo apt-get install -y git vim cmake autoconf autogen automake tmux ninja-build htop
 ```
 
 # short cut
@@ -71,6 +72,7 @@ source $HOME/.profile
 sudo apt-get install -y zlib1g-dev glib2.0 libpixman-1-dev libsdl-dev flex bison
 cd /path/to/save/sourcecode
 git clone -b stable-3.0 https://git.qemu.org/git/qemu.git/ --depth 1
+# wget https://download.qemu.org/qemu-3.0.0.tar.xz
 mkdir build-qemu && cd build-qemu
 ../qemu/configure --target-list="arm-softmmu,aarch64-softmmu,i386-softmmu,x86_64-softmmu"
 make -j4
@@ -96,7 +98,7 @@ make -j4
 4. ```sudo modprobe kvm-intel```
 
 
-# Python3.5 packet
+# Python3 packet
 ```shell
 sudo apt install -y python3-dev python3-pip
 pip3 install ipython numpy panda virtualenv
