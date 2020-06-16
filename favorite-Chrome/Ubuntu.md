@@ -1,9 +1,9 @@
 # Ubuntu下如何用命令行运行deb安装包，dpkg
 ## deb包
 1. 安装: `sudo dpkg -i <package.deb>`, (`-i`==`--install`)
-2. 查看详细信息: `sudo dpkg -I <package.deb>`, (`-I`==`--install`)
+2. 查看详细信息: `sudo dpkg -I <package.deb>`, (`-I`==`--info`)
 3. 查看文件结构: `sudo dpkg -c <package.deb>`, (`-c`==`--contents`)
-## 以安装的软件
+## 已安装的软件
 1. 查看信息: `sudo dpkg -l <package>`, (`-l`==`--list`)
 2. 查看所需文件: `sudo dpkg -L <package>`, (`-L`==`--listfiles`)
 3. 查看详细信息: `sudo dpkg -s <package>`, (`-s`==`--status`)

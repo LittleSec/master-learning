@@ -1,8 +1,11 @@
+# if ubuntu in vmware
+1. vm-tools maybe useful: `sudo apt intall open-vm-tools-dev`
+
 # Firstly<a name="firstly"></a>
 ```shell
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install -y git vim cmake autoconf autogen automake tmux
+sudo apt-get install -y g++ git vim cmake autoconf autogen automake tmux ninja-build htop
 ```
 
 # short cut
@@ -14,12 +17,18 @@ sudo apt-get install -y zsh fonts-powerline
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 run zsh
-vim ~/.zshrc # ZSH_THEME="agnoster"
+vim ~/.zshrc # ZSH_THEME="random"
 chsh -s `which zsh`
 sudo shutdown -h now
 ```
 
 # LLVM and Clang
+1. 对于新电脑的依赖:
+    + python-dev(e.g. Ubuntu 18.04: python3.6-dev)
+    + libxml2-dev
+    + libncurses5-dev
+    + swig
+    + libedit-dev
 ## some tips(现在更建议这种方法~)
 1. 可以在[llvm.org](http://releases.llvm.org/download.html)只下载llvm，不必下载整个project。
     + 但必须要装了llvm再clang，clang依赖于llvm，至少要让clang知道llvm的路径
@@ -27,17 +36,20 @@ sudo shutdown -h now
 2. 需要大内存和磁盘空间
 3. 内存不够可以由交换空间弥补，现在安装ubuntu一般不会单独设置一个合理大的交换空间（都是意思意思设置一个，也不怎么需要用），可能需要手动创建挂载一个较大的交换空间。
     + 对于clang建议：swap分区大小+memory内存大小总和 > 16GB
-4. 需要多个llvm和clang版本共存时，可以在cmake时指定***release***减少占用空间。`-D CMAKE_BUILD_TYPE=Release`
+    + ***内存够不够跟make的时候用-j选项有关，所以make出错时监控一下内存看看是否的在出错的时候内存满了，满了则较少-j***
+4. 需要多个llvm和clang版本共存时，可以在cmake时指定***release***减少占用空间。`-D CMAKE_BUILD_TYPE=Release`，不指定的话默认是Debug
 ```shell
 cd /path/to/save/sourcecode
-git clone https://github.com/llvm/llvm-project.git --depth=1
+git clone https://github.com/llvm/llvm-project.git -b llvmorg-8.0.0 --depth=1
 cd llvm-project
-mkdir build-llvm && cd build-llvm
-cmake -DLLVM_ENABLE_PROJECTS=clang -G "Unix Makefiles" ../llvm
-make -j4 # will error about 84%
-make
+mkdir -p install
+mkdir -p build 
+cd build
+cmake -G "Unix Makefiles" -DLLVM_ENABLE_PROJECTS="clang;clang-tools-extra;libcxx;libcxxabi;lld" -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=$(pwd)/../install ../llvm
+make -j4
 sudo make install
 ```
+5. 卸载：`rm -rf $(cat build/install_manifest.txt)`
 
 # deb
 1. [vscode](https://code.visualstudio.com/)
@@ -69,7 +81,7 @@ make -j4
 2. ```sudo apt install -y python-setuptools quilt libssl-dev dwarfdump libelf-dev```
 ## debootstrap wheezy
 1. ```sudo apt install -y debian-keyring debian-archive-keyring```
-2. debootstrap
+2. debootstrap **may need to modifiy**
     ```shell
     wget http://ftp.ru.debian.org/debian/pool/main/d/debootstrap/debootstrap_1.0.115.tar.gz
     tar xzf debootstrap_1.0.114.tar.gz 
@@ -86,7 +98,7 @@ make -j4
 
 # Python3.5 packet
 ```shell
-sudo apt install -y python3.5-dev python3-pip
+sudo apt install -y python3-dev python3-pip
 pip3 install ipython numpy panda virtualenv
 ```
 
