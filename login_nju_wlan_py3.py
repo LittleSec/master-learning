@@ -1,4 +1,4 @@
-#/bin/python3
+#/usr/bin/python3
 
 import json
 import time
@@ -14,10 +14,10 @@ def loginNJUWLAN(sid, pw):
         response = webstream.read().decode()
         reply_code = json.loads(response)["reply_code"]
         if reply_code == 1:
-            print("Login success")
+            print("[", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), "]: " ,"Login success")
             return True
         else:
-            print("Login fail")
+            print("[", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), "]: " , "Login fail")
             print(response)
             return False
 
@@ -27,7 +27,7 @@ def alive_check_once(sid, pw, retry_time=5):
         data = webstream.read().decode()
         reply_code = json.loads(data)["reply_code"]
         if reply_code != 0:
-            print("try to login...")
+            print("[", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), "]: " , "try to login...")
             for i in range(retry_time):
                 if loginNJUWLAN(sid, pw):
                     break
@@ -35,7 +35,7 @@ def alive_check_once(sid, pw, retry_time=5):
             else:
                 raise Exception("login fail")
         else:
-            print("have login")
+            print("[", time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), "]: " , "have login")
             time.sleep(3600)
 
 if __name__ == "__main__":
