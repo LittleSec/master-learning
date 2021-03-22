@@ -46,10 +46,10 @@ abi_ulong  afl_end_code=(abi_ulong)-1;    /* .text end pointer        */
    _start and does the usual forkserver stuff, not very different from
    regular instrumentation injected via afl-as.h. */
 
-#define AFL_QEMU_CPU_SNIPPET2 do { \
-    qemu_log("Tracking exected BB id: 0x%04x\n", itb->pc); \
+#define AFL_QEMU_CPU_SNIPPET2(pc) do { \
+    qemu_log("Tracking exected BB id: 0x%04x\n", pc); \
     afl_setup(); \
-    afl_maybe_log(itb->pc); \
+    afl_maybe_log(pc); \
   } while (0)
 
 
