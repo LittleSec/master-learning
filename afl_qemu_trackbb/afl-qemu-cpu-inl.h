@@ -27,10 +27,10 @@
  */
 #include <stdio.h>
 #include <sys/shm.h>
-#include "config.h"
-#include "debug.h"
-#include "alloc-inl.h"
-#include "hash.h"
+#include "afl/config.h"
+#include "afl/debug.h"
+#include "afl/alloc-inl.h"
+#include "afl/hash.h"
 
 int shm_id;
 int has_setup_shm = 0;

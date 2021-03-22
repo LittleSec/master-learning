@@ -90,6 +90,14 @@ There are many ways to use QemuInterface.c, like:
 
 shm_id.txt store share memory id, it's better change absolute path(hard code) in [afl-qemu-cpu-inl.h](afl-qemu-cpu-inl.h) and [QemuInterface.c](QemuInterface.c)
 
+
+## directory [afl](afl/)
+
+***important***
+
+both [afl-qemu-cpu-inl.h](afl-qemu-cpu-inl.h) and [QemuInterface.c](QemuInterface.c) are include header files in this directory,
+so put these into right place or modify include path.
+
 # implementation
 1. files in directory [afl](afl/) is come from project [AFL](https://github.com/google/AFL)
 2. share memory open with [afl-qemu-cpu-inl.h](afl-qemu-cpu-inl.h), size define in [afl/config.h](afl/config.h), but no one close it, we can use [rmshm.sh](rmshm.sh) to close it.
